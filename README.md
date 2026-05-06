@@ -60,5 +60,6 @@ Open `esg_report_pdf.ipynb` in Jupyter/VS Code and run all cells. This will crea
 ## Power BI/Excel Dashboard
 Instructions for building a Power BI or Excel dashboard are provided in the notebook and report.
 
+
 ## License
 Specify your license here.
