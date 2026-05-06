@@ -1,0 +1,2001 @@
+Facility ID,Facility Name,Reporting Period,Scope,GHG Type,Emissions (tons),Outlier_Flag
+F088,Jsw Energy,2022 Q1,Scope 3,CH4,2435.5974,No
+F021,L&T,2022 Q2,Scope 1,CO2,835.45,No
+F107,Reliance Industries,2022 Q2,Scope 1,CO2,3430.45,No
+F106,Tata Steel,2022 Q1,Scope 1,CO2,4214.24,No
+F090,Reliance Industries,2022 Q2,Scope 3,CH4,605.5935,No
+F158,Tata Steel,2022 Q2,Scope 1,CH4,656.33,No
+F023,L&T,2023 Q2,Scope 3,N2O,4455.9341,No
+F153,Tata Steel,2022 Q2,Scope 3,CH4,660.1975,No
+F079,Reliance Industries,2023 Q2,Scope 3,CH4,1883.3043,No
+F065,L&T,2022 Q1,Scope 2,N2O,221.01,No
+F025,Adani Green,2022 Q1,Scope 2,CH4,4737.06,No
+F104,Adani Green,2022 Q1,Scope 3,N2O,1951.279,No
+F137,Jsw Energy,2022 Q2,Scope 2,CH4,4320.11,No
+F158,Tata Steel,2022 Q1,Scope 2,CO2,2179.33,No
+F101,Tata Steel,2023 Q1,Scope 1,CH4,3612.19,No
+F194,Tata Steel,2022 Q1,Scope 2,N2O,1270.36,No
+F057,L&T,2023 Q2,Scope 2,CH4,1630.06,No
+F017,Reliance Industries,2023 Q1,Scope 3,N2O,3063.6059,No
+F120,Adani Green,2022 Q1,Scope 3,N2O,2447.4219,No
+F139,Jsw Energy,2022 Q2,Scope 2,N2O,4170.13,No
+F166,Tata Steel,2023 Q2,Scope 3,CO2,2099.6405,No
+F005,Adani Green,2023 Q2,Scope 2,CO2,3701.02,No
+F060,Adani Green,2023 Q2,Scope 2,CH4,1262.77,No
+F133,Reliance Industries,2022 Q1,Scope 1,N2O,2741.92,No
+F025,Adani Green,2022 Q1,Scope 1,N2O,1824.14,No
+F134,Tata Steel,2023 Q2,Scope 3,CH4,738.4386,No
+F030,Jsw Energy,2022 Q2,Scope 3,CO2,2856.7613,No
+F091,Adani Green,2022 Q2,Scope 1,N2O,1787.35,No
+F002,Adani Green,2023 Q2,Scope 3,CO2,5138.8326,No
+F121,Tata Steel,2022 Q1,Scope 3,CH4,5005.4417,No
+F008,Tata Steel,2023 Q2,Scope 2,N2O,4053.3,No
+F198,Tata Steel,2023 Q2,Scope 2,N2O,280.72,No
+F087,Adani Green,2023 Q2,Scope 1,N2O,329.41,No
+F175,Tata Steel,2022 Q2,Scope 1,CO2,4133.74,No
+F100,Jsw Energy,2023 Q1,Scope 2,CO2,2773.3,No
+F042,L&T,2022 Q2,Scope 3,CH4,3482.0777,No
+F173,L&T,2023 Q1,Scope 3,CH4,1953.7074,No
+F025,Adani Green,2023 Q1,Scope 1,CO2,4444.76,No
+F173,L&T,2023 Q2,Scope 2,CO2,1836.99,No
+F012,Tata Steel,2022 Q1,Scope 1,CO2,793.9,No
+F182,Tata Steel,2023 Q1,Scope 2,N2O,1445.28,No
+F026,Reliance Industries,2023 Q1,Scope 3,N2O,1246.7281,No
+F093,Reliance Industries,2023 Q1,Scope 1,CH4,527.17,No
+F074,L&T,2023 Q1,Scope 1,CO2,542.33,No
+F024,Adani Green,2023 Q1,Scope 2,N2O,636.07,No
+F103,Adani Green,2023 Q1,Scope 3,CO2,3898.1984,No
+F032,L&T,2023 Q1,Scope 3,N2O,525.2493,No
+F077,Adani Green,2022 Q1,Scope 1,CO2,1135.03,No
+F017,Reliance Industries,2023 Q2,Scope 3,N2O,1670.5064,No
+F056,Adani Green,2022 Q2,Scope 3,CH4,939.613,No
+F008,Tata Steel,2023 Q1,Scope 2,CH4,1436.13,No
+F172,Adani Green,2023 Q1,Scope 3,N2O,3950.0002,No
+F190,Jsw Energy,2022 Q1,Scope 3,CH4,4777.77,No
+F097,L&T,2022 Q2,Scope 3,CH4,739.4805,No
+F045,Jsw Energy,2023 Q2,Scope 1,CH4,2957.08,No
+F181,Tata Steel,2022 Q2,Scope 2,N2O,4782.28,No
+F100,Jsw Energy,2023 Q1,Scope 1,CO2,3836.23,No
+F019,Jsw Energy,2022 Q2,Scope 2,CH4,4410.64,No
+F181,Tata Steel,2023 Q1,Scope 2,N2O,1861.93,No
+F115,Tata Steel,2022 Q1,Scope 1,CH4,3332.83,No
+F086,Adani Green,2023 Q1,Scope 2,N2O,2649.83,No
+F162,Tata Steel,2022 Q1,Scope 1,N2O,3224.33,No
+F023,L&T,2023 Q2,Scope 3,CH4,881.2176,No
+F084,Tata Steel,2022 Q2,Scope 3,CO2,5563.3195,No
+F197,Reliance Industries,2023 Q1,Scope 2,N2O,2558.18,No
+F186,Adani Green,2023 Q2,Scope 3,CH4,2013.8703,No
+F191,Jsw Energy,2023 Q2,Scope 2,CO2,1752.18,No
+F039,Reliance Industries,2022 Q2,Scope 2,N2O,4152.92,No
+F126,Reliance Industries,2022 Q2,Scope 2,CO2,61.94,No
+F172,Adani Green,2023 Q1,Scope 3,CO2,4862.4354,No
+F044,L&T,2023 Q2,Scope 3,CH4,1930.1291,No
+F016,Reliance Industries,2023 Q1,Scope 2,N2O,2818.75,No
+F059,Reliance Industries,2022 Q1,Scope 3,N2O,2368.6696,No
+F042,L&T,2023 Q1,Scope 1,CO2,1533.98,No
+F097,L&T,2023 Q1,Scope 1,N2O,249.89,No
+F196,Adani Green,2022 Q2,Scope 3,CO2,4797.8756,No
+F063,Adani Green,2023 Q2,Scope 1,N2O,534.06,No
+F135,Tata Steel,2022 Q2,Scope 1,CH4,4285.9,No
+F193,L&T,2023 Q1,Scope 2,CH4,1042.25,No
+F068,Jsw Energy,2023 Q1,Scope 3,N2O,1836.6851,No
+F161,Reliance Industries,2022 Q2,Scope 2,CO2,3337.6,No
+F137,Jsw Energy,2023 Q1,Scope 1,CO2,2632.11,No
+F037,Tata Steel,2023 Q2,Scope 2,N2O,2011.5,No
+F022,Adani Green,2023 Q2,Scope 2,CO2,724.26,No
+F088,Jsw Energy,2023 Q2,Scope 1,N2O,2373.26,No
+F002,Adani Green,2023 Q1,Scope 2,N2O,1440.9,No
+F176,Adani Green,2022 Q2,Scope 2,CH4,569.39,No
+F133,Reliance Industries,2023 Q2,Scope 1,N2O,1161.74,No
+F017,Reliance Industries,2022 Q1,Scope 3,N2O,4200.5,No
+F173,L&T,2022 Q1,Scope 1,CO2,2311.55,No
+F071,Adani Green,2022 Q1,Scope 2,CO2,2116.64,No
+F048,Jsw Energy,2022 Q2,Scope 2,CO2,2833.88,No
+F027,Adani Green,2022 Q1,Scope 2,CH4,2605.96,No
+F045,Jsw Energy,2023 Q1,Scope 3,N2O,532.454,No
+F036,Tata Steel,2022 Q2,Scope 3,N2O,1876.9555,No
+F078,Jsw Energy,2022 Q2,Scope 1,CO2,522.41,No
+F073,Tata Steel,2023 Q2,Scope 3,CH4,4953.98,No
+F127,Tata Steel,2022 Q2,Scope 3,CO2,2322.96,No
+F126,Reliance Industries,2023 Q1,Scope 2,N2O,4662.91,No
+F082,Jsw Energy,2023 Q2,Scope 2,N2O,1907.29,No
+F108,Tata Steel,2022 Q2,Scope 3,CO2,1668.5872,No
+F031,Tata Steel,2023 Q1,Scope 1,N2O,3260.51,No
+F054,Tata Steel,2022 Q1,Scope 1,CH4,2218.47,No
+F191,Jsw Energy,2023 Q1,Scope 1,CH4,479.85,No
+F144,Reliance Industries,2022 Q1,Scope 2,CO2,401.65,No
+F046,Adani Green,2023 Q1,Scope 2,N2O,4844.94,No
+F061,L&T,2023 Q1,Scope 1,CH4,1954.31,No
+F172,Adani Green,2023 Q2,Scope 2,CO2,2094.86,No
+F018,Adani Green,2022 Q1,Scope 2,N2O,3876.8,No
+F030,Jsw Energy,2023 Q1,Scope 2,CH4,3209.34,No
+F184,Jsw Energy,2022 Q1,Scope 2,N2O,1290.41,No
+F060,Adani Green,2022 Q2,Scope 1,N2O,3768.03,No
+F041,L&T,2022 Q1,Scope 2,CH4,2209.6,No
+F064,L&T,2023 Q1,Scope 3,N2O,3789.17,No
+F124,Tata Steel,2022 Q1,Scope 2,CH4,2970.05,No
+F131,Adani Green,2023 Q2,Scope 2,CH4,1858.31,No
+F103,Adani Green,2022 Q1,Scope 3,CH4,3702.9534,No
+F152,Adani Green,2023 Q2,Scope 2,CH4,3276.0,No
+F085,Adani Green,2022 Q1,Scope 1,N2O,526.37,No
+F099,Tata Steel,2022 Q2,Scope 1,CH4,445.6,No
+F128,Reliance Industries,2023 Q1,Scope 3,CO2,4486.2701,No
+F124,Tata Steel,2022 Q2,Scope 3,CO2,1770.5417,No
+F031,Tata Steel,2023 Q1,Scope 3,N2O,2762.1897,No
+F198,Tata Steel,2023 Q1,Scope 1,CO2,1531.3,No
+F135,Tata Steel,2023 Q1,Scope 3,CO2,4453.3687,No
+F019,Jsw Energy,2023 Q2,Scope 2,CH4,4934.56,No
+F199,Jsw Energy,2022 Q2,Scope 1,CH4,1164.7,No
+F145,Adani Green,2022 Q2,Scope 1,N2O,2732.08,No
+F196,Adani Green,2022 Q2,Scope 3,CH4,3114.4974,No
+F015,Adani Green,2023 Q2,Scope 1,CH4,3329.18,No
+F092,Adani Green,2023 Q2,Scope 2,CH4,3195.93,No
+F022,Adani Green,2022 Q1,Scope 2,CO2,1246.5,No
+F089,Adani Green,2022 Q1,Scope 2,CH4,2737.6,No
+F174,Tata Steel,2023 Q1,Scope 2,CO2,1722.2,No
+F028,Adani Green,2022 Q1,Scope 1,CO2,4036.12,No
+F148,L&T,2023 Q2,Scope 2,CH4,897.74,No
+F053,Jsw Energy,2023 Q2,Scope 1,CH4,1853.54,No
+F089,Adani Green,2023 Q1,Scope 1,CO2,4674.16,No
+F028,Adani Green,2022 Q2,Scope 3,CO2,4723.6,No
+F199,Jsw Energy,2023 Q2,Scope 3,CH4,3244.2139,No
+F106,Tata Steel,2022 Q2,Scope 1,N2O,980.22,No
+F007,Adani Green,2022 Q1,Scope 2,CO2,4810.13,No
+F014,Reliance Industries,2023 Q2,Scope 2,N2O,3868.27,No
+F085,Adani Green,2022 Q1,Scope 2,N2O,714.41,No
+F199,Jsw Energy,2022 Q2,Scope 3,CH4,1121.0579,No
+F143,L&T,2022 Q2,Scope 3,N2O,1645.6744,No
+F072,Reliance Industries,2023 Q1,Scope 3,CO2,3519.7372,No
+F016,Reliance Industries,2023 Q1,Scope 3,N2O,2222.68,No
+F126,Reliance Industries,2023 Q1,Scope 1,CO2,261.56,No
+F032,L&T,2023 Q1,Scope 3,N2O,4724.5603,No
+F125,L&T,2022 Q2,Scope 1,CH4,1696.11,No
+F167,Reliance Industries,2022 Q2,Scope 2,N2O,1447.34,No
+F183,Tata Steel,2022 Q2,Scope 1,N2O,3456.69,No
+F002,Adani Green,2023 Q1,Scope 2,CH4,1842.07,No
+F116,Reliance Industries,2022 Q2,Scope 3,CO2,670.69,No
+F047,Jsw Energy,2023 Q2,Scope 3,CO2,1143.202,No
+F126,Reliance Industries,2023 Q2,Scope 3,CH4,3475.515,No
+F176,Adani Green,2023 Q1,Scope 2,CH4,1313.1,No
+F037,Tata Steel,2022 Q2,Scope 1,N2O,2271.65,No
+F126,Reliance Industries,2022 Q1,Scope 3,CO2,4185.7463,No
+F135,Tata Steel,2022 Q2,Scope 3,CH4,704.3366,No
+F081,L&T,2022 Q1,Scope 3,N2O,801.11,No
+F158,Tata Steel,2022 Q2,Scope 1,CH4,1685.02,No
+F183,Tata Steel,2022 Q1,Scope 1,CH4,4811.95,No
+F070,Reliance Industries,2023 Q2,Scope 3,N2O,5093.5156,No
+F092,Adani Green,2023 Q2,Scope 3,N2O,4205.3748,No
+F012,Tata Steel,2023 Q2,Scope 3,CO2,1288.3541,No
+F071,Adani Green,2022 Q1,Scope 1,N2O,2663.02,No
+F070,Reliance Industries,2022 Q1,Scope 1,CH4,2844.55,No
+F062,Reliance Industries,2022 Q2,Scope 2,CH4,1998.08,No
+F100,Jsw Energy,2023 Q2,Scope 1,CH4,241.97,No
+F114,L&T,2022 Q2,Scope 3,CO2,2907.8947,No
+F077,Adani Green,2023 Q2,Scope 3,CO2,4728.95,No
+F198,Tata Steel,2022 Q2,Scope 1,N2O,4265.85,No
+F050,Jsw Energy,2023 Q2,Scope 3,N2O,2361.5528,No
+F026,Reliance Industries,2023 Q2,Scope 1,CH4,235.74,No
+F068,Jsw Energy,2023 Q2,Scope 2,CH4,2737.0,No
+F156,Reliance Industries,2022 Q1,Scope 2,CO2,1539.15,No
+F016,Reliance Industries,2022 Q1,Scope 2,CH4,502.47,No
+F092,Adani Green,2022 Q1,Scope 1,CO2,2710.93,No
+F009,Jsw Energy,2023 Q1,Scope 3,CH4,2286.242,No
+F158,Tata Steel,2023 Q2,Scope 3,CH4,3819.9789,No
+F103,Adani Green,2022 Q1,Scope 1,CO2,2138.08,No
+F155,Reliance Industries,2022 Q1,Scope 2,N2O,747.74,No
+F083,Reliance Industries,2023 Q1,Scope 2,N2O,1025.55,No
+F006,Adani Green,2022 Q1,Scope 3,CO2,3382.0,No
+F164,Jsw Energy,2023 Q2,Scope 1,N2O,1772.18,No
+F044,L&T,2022 Q2,Scope 2,N2O,2150.66,No
+F072,Reliance Industries,2023 Q1,Scope 1,CO2,3214.91,No
+F042,L&T,2023 Q1,Scope 1,N2O,1475.38,No
+F079,Reliance Industries,2022 Q1,Scope 2,N2O,2631.42,No
+F191,Jsw Energy,2022 Q2,Scope 1,CO2,2973.99,No
+F134,Tata Steel,2022 Q1,Scope 1,N2O,587.89,No
+F118,Jsw Energy,2023 Q1,Scope 1,N2O,599.52,No
+F168,Reliance Industries,2022 Q1,Scope 2,CH4,1993.42,No
+F169,Reliance Industries,2022 Q2,Scope 1,CH4,1395.49,No
+F093,Reliance Industries,2022 Q2,Scope 3,CO2,2509.14,No
+F108,Tata Steel,2023 Q2,Scope 3,N2O,2619.1305,No
+F024,Adani Green,2022 Q2,Scope 1,CH4,1192.66,No
+F108,Tata Steel,2023 Q1,Scope 3,N2O,639.3564,No
+F002,Adani Green,2022 Q2,Scope 2,N2O,3446.07,No
+F095,Reliance Industries,2022 Q2,Scope 3,CH4,2973.1976,No
+F005,Adani Green,2022 Q2,Scope 2,CO2,4562.24,No
+F162,Tata Steel,2022 Q2,Scope 2,CO2,3500.64,No
+F025,Adani Green,2022 Q1,Scope 2,N2O,3289.66,No
+F100,Jsw Energy,2023 Q1,Scope 1,CO2,540.26,No
+F171,Adani Green,2023 Q2,Scope 1,CO2,3784.31,No
+F101,Tata Steel,2022 Q2,Scope 2,N2O,2320.83,No
+F016,Reliance Industries,2023 Q1,Scope 1,CO2,2311.45,No
+F174,Tata Steel,2023 Q2,Scope 2,CH4,4836.59,No
+F077,Adani Green,2022 Q2,Scope 2,CO2,4870.82,No
+F149,L&T,2023 Q2,Scope 2,CO2,4492.74,No
+F192,Adani Green,2023 Q1,Scope 1,CH4,2776.43,No
+F107,Reliance Industries,2023 Q2,Scope 2,CH4,4987.59,No
+F096,Jsw Energy,2022 Q1,Scope 3,CH4,1335.7609,No
+F139,Jsw Energy,2023 Q1,Scope 1,CH4,1293.21,No
+F195,L&T,2023 Q1,Scope 2,N2O,1708.0,No
+F127,Tata Steel,2022 Q2,Scope 2,N2O,4594.98,No
+F159,Jsw Energy,2023 Q2,Scope 1,CH4,831.81,No
+F151,Reliance Industries,2023 Q2,Scope 1,CH4,2545.9,No
+F095,Reliance Industries,2023 Q1,Scope 3,CH4,1207.1363,No
+F101,Tata Steel,2023 Q2,Scope 3,N2O,2790.8028,No
+F132,Adani Green,2023 Q2,Scope 2,CO2,1945.28,No
+F107,Reliance Industries,2023 Q1,Scope 3,N2O,3670.5422,No
+F134,Tata Steel,2022 Q2,Scope 1,N2O,1954.98,No
+F196,Adani Green,2022 Q2,Scope 1,CO2,2205.38,No
+F166,Tata Steel,2023 Q2,Scope 1,N2O,1900.73,No
+F008,Tata Steel,2022 Q2,Scope 3,CH4,2512.78,No
+F047,Jsw Energy,2023 Q2,Scope 3,CO2,3560.294,No
+F172,Adani Green,2023 Q2,Scope 1,CH4,4844.28,No
+F048,Jsw Energy,2022 Q2,Scope 1,CO2,3100.15,No
+F100,Jsw Energy,2022 Q1,Scope 2,CO2,2791.16,No
+F125,L&T,2022 Q1,Scope 1,CO2,774.95,No
+F025,Adani Green,2022 Q1,Scope 3,CO2,2907.121,No
+F069,Adani Green,2023 Q2,Scope 3,CH4,1885.37,No
+F173,L&T,2023 Q2,Scope 3,CH4,3784.5788,No
+F031,Tata Steel,2023 Q1,Scope 2,CH4,2788.31,No
+F171,Adani Green,2022 Q2,Scope 1,CO2,3315.9,No
+F033,Jsw Energy,2023 Q1,Scope 2,N2O,1940.67,No
+F038,Adani Green,2022 Q2,Scope 3,N2O,4052.32,No
+F157,Jsw Energy,2023 Q1,Scope 3,CH4,1277.2954,No
+F095,Reliance Industries,2022 Q2,Scope 2,CO2,1024.25,No
+F077,Adani Green,2022 Q1,Scope 2,CH4,167.21,No
+F140,Adani Green,2023 Q2,Scope 2,CH4,996.06,No
+F177,Tata Steel,2023 Q1,Scope 2,CH4,1827.8,No
+F025,Adani Green,2023 Q1,Scope 2,N2O,4065.52,No
+F089,Adani Green,2023 Q2,Scope 3,CH4,484.8199,No
+F113,Tata Steel,2022 Q1,Scope 3,N2O,4023.0128,No
+F193,L&T,2022 Q1,Scope 3,N2O,895.4336,No
+F048,Jsw Energy,2023 Q2,Scope 3,N2O,1949.103,No
+F025,Adani Green,2023 Q2,Scope 2,N2O,3777.75,No
+F194,Tata Steel,2022 Q2,Scope 1,N2O,3625.63,No
+F106,Tata Steel,2023 Q1,Scope 1,N2O,2991.57,No
+F056,Adani Green,2022 Q1,Scope 1,CO2,1016.04,No
+F151,Reliance Industries,2022 Q2,Scope 1,N2O,162.68,No
+F121,Tata Steel,2023 Q2,Scope 3,CH4,2442.2862,No
+F010,Jsw Energy,2022 Q1,Scope 1,CO2,2499.21,No
+F151,Reliance Industries,2022 Q2,Scope 1,CO2,880.0,No
+F109,Jsw Energy,2022 Q1,Scope 3,N2O,1240.92,No
+F002,Adani Green,2023 Q2,Scope 1,CO2,960.86,No
+F090,Reliance Industries,2022 Q1,Scope 3,CO2,4165.4783,No
+F162,Tata Steel,2023 Q2,Scope 2,CH4,2805.55,No
+F177,Tata Steel,2022 Q2,Scope 3,N2O,5115.6805,No
+F034,Adani Green,2023 Q1,Scope 3,CH4,771.9229,No
+F177,Tata Steel,2022 Q1,Scope 2,CH4,2773.86,No
+F055,Reliance Industries,2023 Q1,Scope 1,CH4,3950.71,No
+F078,Jsw Energy,2023 Q1,Scope 2,N2O,2266.44,No
+F091,Adani Green,2023 Q2,Scope 2,N2O,4964.76,No
+F082,Jsw Energy,2022 Q2,Scope 1,CO2,2700.64,No
+F183,Tata Steel,2022 Q1,Scope 1,CH4,4643.79,No
+F090,Reliance Industries,2022 Q1,Scope 3,N2O,4947.7397,No
+F018,Adani Green,2022 Q1,Scope 3,CH4,2116.6524,No
+F102,L&T,2022 Q2,Scope 1,CH4,425.91,No
+F001,L&T,2023 Q1,Scope 2,CH4,466.45,No
+F078,Jsw Energy,2023 Q2,Scope 2,CO2,1868.24,No
+F151,Reliance Industries,2022 Q2,Scope 3,CH4,3497.3454,No
+F153,Tata Steel,2022 Q1,Scope 1,CO2,3774.06,No
+F072,Reliance Industries,2022 Q1,Scope 2,N2O,518.8,No
+F170,Reliance Industries,2022 Q1,Scope 2,CO2,2317.02,No
+F185,Jsw Energy,2022 Q1,Scope 1,N2O,3340.8,No
+F122,Adani Green,2022 Q2,Scope 2,CO2,3888.93,No
+F002,Adani Green,2023 Q2,Scope 3,N2O,4696.229,No
+F134,Tata Steel,2023 Q2,Scope 2,CO2,149.05,No
+F186,Adani Green,2022 Q2,Scope 3,N2O,3665.9483,No
+F008,Tata Steel,2022 Q2,Scope 1,CH4,4101.93,No
+F028,Adani Green,2023 Q1,Scope 1,N2O,2897.14,No
+F032,L&T,2023 Q1,Scope 1,CO2,828.73,No
+F174,Tata Steel,2023 Q1,Scope 2,CO2,3155.64,No
+F121,Tata Steel,2023 Q1,Scope 1,CO2,3573.8,No
+F164,Jsw Energy,2022 Q1,Scope 2,N2O,4315.67,No
+F121,Tata Steel,2022 Q2,Scope 1,CH4,265.31,No
+F166,Tata Steel,2022 Q1,Scope 2,N2O,392.52,No
+F050,Jsw Energy,2023 Q2,Scope 2,N2O,3807.44,No
+F037,Tata Steel,2022 Q1,Scope 3,N2O,3118.176,No
+F052,Tata Steel,2023 Q1,Scope 1,N2O,1947.59,No
+F004,Jsw Energy,2022 Q1,Scope 2,N2O,4464.43,No
+F111,Tata Steel,2022 Q2,Scope 1,CH4,2252.36,No
+F077,Adani Green,2022 Q1,Scope 3,CO2,2203.84,No
+F019,Jsw Energy,2023 Q1,Scope 1,CO2,673.38,No
+F096,Jsw Energy,2023 Q2,Scope 2,CH4,3879.17,No
+F171,Adani Green,2022 Q1,Scope 2,CO2,404.42,No
+F016,Reliance Industries,2023 Q2,Scope 3,N2O,3415.97,No
+F148,L&T,2023 Q2,Scope 3,CH4,3091.3924,No
+F172,Adani Green,2023 Q2,Scope 2,N2O,3216.77,No
+F166,Tata Steel,2022 Q1,Scope 3,CH4,2200.2044,No
+F115,Tata Steel,2022 Q1,Scope 1,CO2,4874.88,No
+F032,L&T,2023 Q1,Scope 1,N2O,3104.55,No
+F103,Adani Green,2022 Q1,Scope 3,N2O,3500.3246,No
+F096,Jsw Energy,2023 Q2,Scope 3,CH4,3041.1635,No
+F154,Jsw Energy,2022 Q1,Scope 3,CH4,4584.1555,No
+F050,Jsw Energy,2023 Q1,Scope 3,CH4,3894.0086,No
+F103,Adani Green,2022 Q2,Scope 1,CH4,1782.56,No
+F025,Adani Green,2023 Q1,Scope 2,CH4,4386.96,No
+F152,Adani Green,2022 Q1,Scope 2,N2O,644.96,No
+F112,Adani Green,2023 Q1,Scope 1,CH4,1942.26,No
+F044,L&T,2023 Q1,Scope 2,CH4,1990.87,No
+F019,Jsw Energy,2023 Q2,Scope 1,CO2,3260.58,No
+F198,Tata Steel,2023 Q1,Scope 1,CH4,1079.1,No
+F027,Adani Green,2023 Q2,Scope 2,CO2,2675.56,No
+F021,L&T,2022 Q2,Scope 2,CO2,1583.52,No
+F138,Jsw Energy,2023 Q2,Scope 2,CO2,4798.47,No
+F169,Reliance Industries,2022 Q2,Scope 2,N2O,856.9,No
+F134,Tata Steel,2022 Q1,Scope 3,CH4,1158.6282,No
+F113,Tata Steel,2022 Q1,Scope 3,CO2,5208.6131,No
+F011,Adani Green,2022 Q1,Scope 2,CO2,4745.3,No
+F098,Adani Green,2023 Q1,Scope 3,CH4,693.434,No
+F149,L&T,2022 Q1,Scope 1,CO2,3285.65,No
+F135,Tata Steel,2023 Q1,Scope 2,N2O,2731.22,No
+F036,Tata Steel,2022 Q1,Scope 3,CH4,2767.5415,No
+F200,L&T,2022 Q2,Scope 2,N2O,1719.12,No
+F030,Jsw Energy,2023 Q1,Scope 1,N2O,2475.83,No
+F118,Jsw Energy,2022 Q2,Scope 3,CH4,891.0424,No
+F043,Jsw Energy,2023 Q1,Scope 1,CH4,4421.93,No
+F091,Adani Green,2023 Q2,Scope 1,CH4,3545.18,No
+F092,Adani Green,2023 Q1,Scope 1,CO2,3073.82,No
+F118,Jsw Energy,2022 Q2,Scope 2,CO2,1458.83,No
+F066,Adani Green,2022 Q1,Scope 2,N2O,3457.1,No
+F175,Tata Steel,2022 Q1,Scope 3,CO2,1857.3662,No
+F032,L&T,2023 Q1,Scope 3,CH4,877.7284,No
+F125,L&T,2023 Q1,Scope 3,CH4,1349.7273,No
+F042,L&T,2023 Q1,Scope 3,N2O,5028.944,No
+F087,Adani Green,2023 Q1,Scope 3,CO2,4368.4298,No
+F023,L&T,2023 Q2,Scope 1,CO2,3793.84,No
+F030,Jsw Energy,2022 Q1,Scope 2,CO2,944.95,No
+F054,Tata Steel,2023 Q2,Scope 3,CO2,2973.303,No
+F064,L&T,2022 Q1,Scope 3,N2O,3422.23,No
+F121,Tata Steel,2022 Q2,Scope 2,CO2,3754.94,No
+F185,Jsw Energy,2022 Q1,Scope 3,N2O,1213.4732,No
+F099,Tata Steel,2022 Q2,Scope 2,N2O,358.65,No
+F035,Adani Green,2022 Q2,Scope 1,N2O,3630.35,No
+F185,Jsw Energy,2023 Q2,Scope 2,CH4,3966.5,No
+F185,Jsw Energy,2023 Q1,Scope 3,CH4,3886.2319,No
+F110,Adani Green,2023 Q2,Scope 3,CH4,1898.184,No
+F064,L&T,2023 Q2,Scope 2,CO2,1366.72,No
+F095,Reliance Industries,2023 Q2,Scope 3,N2O,1988.1353,No
+F132,Adani Green,2022 Q2,Scope 2,CO2,2529.38,No
+F074,L&T,2022 Q2,Scope 2,CH4,3229.82,No
+F042,L&T,2022 Q2,Scope 1,N2O,1835.81,No
+F065,L&T,2023 Q2,Scope 3,N2O,4463.7645,No
+F047,Jsw Energy,2022 Q2,Scope 3,CH4,2646.587,No
+F002,Adani Green,2023 Q2,Scope 3,N2O,3222.4658,No
+F007,Adani Green,2023 Q2,Scope 1,CH4,3493.4,No
+F054,Tata Steel,2023 Q2,Scope 2,N2O,871.61,No
+F126,Reliance Industries,2023 Q2,Scope 2,CO2,407.43,No
+F019,Jsw Energy,2023 Q2,Scope 2,CH4,4341.34,No
+F178,Tata Steel,2022 Q2,Scope 3,CO2,1935.2957,No
+F038,Adani Green,2023 Q2,Scope 1,CH4,3547.68,No
+F095,Reliance Industries,2023 Q1,Scope 1,N2O,4904.09,No
+F101,Tata Steel,2022 Q1,Scope 1,CH4,3391.08,No
+F077,Adani Green,2022 Q1,Scope 2,CH4,589.81,No
+F014,Reliance Industries,2022 Q2,Scope 2,N2O,1487.46,No
+F065,L&T,2022 Q2,Scope 1,N2O,2879.35,No
+F030,Jsw Energy,2022 Q2,Scope 2,N2O,3544.12,No
+F065,L&T,2022 Q1,Scope 1,CH4,646.33,No
+F006,Adani Green,2023 Q2,Scope 1,CH4,1569.86,No
+F109,Jsw Energy,2023 Q1,Scope 2,CO2,2728.09,No
+F197,Reliance Industries,2023 Q2,Scope 2,CO2,1865.65,No
+F114,L&T,2022 Q2,Scope 2,CH4,4048.31,No
+F139,Jsw Energy,2023 Q1,Scope 2,CO2,468.34,No
+F075,Tata Steel,2022 Q2,Scope 2,CH4,802.1,No
+F108,Tata Steel,2023 Q1,Scope 3,CH4,3548.26,No
+F155,Reliance Industries,2022 Q1,Scope 1,CO2,647.31,No
+F112,Adani Green,2023 Q1,Scope 1,N2O,1024.86,No
+F185,Jsw Energy,2023 Q2,Scope 1,N2O,304.15,No
+F086,Adani Green,2023 Q2,Scope 2,N2O,4794.19,No
+F115,Tata Steel,2023 Q1,Scope 2,N2O,2331.74,No
+F070,Reliance Industries,2022 Q2,Scope 2,CH4,4183.93,No
+F023,L&T,2022 Q2,Scope 1,CO2,1515.76,No
+F003,Tata Steel,2023 Q2,Scope 3,CH4,4299.73,No
+F161,Reliance Industries,2022 Q2,Scope 2,N2O,303.22,No
+F089,Adani Green,2022 Q1,Scope 1,CH4,2427.3,No
+F076,Reliance Industries,2022 Q2,Scope 1,CO2,3481.31,No
+F036,Tata Steel,2023 Q2,Scope 2,CH4,2451.01,No
+F198,Tata Steel,2022 Q1,Scope 3,CH4,2726.5886,No
+F170,Reliance Industries,2022 Q2,Scope 2,N2O,4059.4,No
+F192,Adani Green,2023 Q1,Scope 2,CH4,3874.1,No
+F118,Jsw Energy,2023 Q1,Scope 1,CH4,870.3,No
+F170,Reliance Industries,2022 Q1,Scope 2,N2O,1471.82,No
+F136,L&T,2022 Q1,Scope 3,CH4,3436.0008,No
+F148,L&T,2022 Q2,Scope 3,N2O,479.2227,No
+F043,Jsw Energy,2023 Q2,Scope 1,CO2,2840.69,No
+F019,Jsw Energy,2022 Q2,Scope 2,CO2,1808.08,No
+F143,L&T,2023 Q1,Scope 2,N2O,425.7,No
+F145,Adani Green,2023 Q1,Scope 1,CH4,981.92,No
+F017,Reliance Industries,2022 Q1,Scope 3,CO2,1089.2862,No
+F130,Tata Steel,2023 Q1,Scope 3,N2O,4336.6087,No
+F026,Reliance Industries,2023 Q2,Scope 3,CO2,1820.9865,No
+F126,Reliance Industries,2022 Q2,Scope 1,CO2,2772.88,No
+F084,Tata Steel,2022 Q2,Scope 1,N2O,4985.09,No
+F075,Tata Steel,2023 Q2,Scope 3,CH4,4859.13,No
+F139,Jsw Energy,2023 Q1,Scope 2,CO2,3855.03,No
+F124,Tata Steel,2022 Q1,Scope 3,N2O,1087.9337,No
+F079,Reliance Industries,2022 Q1,Scope 1,CH4,3311.86,No
+F075,Tata Steel,2022 Q1,Scope 3,N2O,3496.49,No
+F046,Adani Green,2023 Q1,Scope 2,CH4,3355.28,No
+F174,Tata Steel,2022 Q1,Scope 3,CH4,4871.4203,No
+F008,Tata Steel,2022 Q2,Scope 3,CH4,1245.54,No
+F028,Adani Green,2023 Q1,Scope 1,CO2,2891.84,No
+F042,L&T,2022 Q1,Scope 1,CH4,2482.64,No
+F140,Adani Green,2023 Q2,Scope 3,CH4,3463.8852,No
+F147,L&T,2022 Q1,Scope 3,N2O,2901.3369,No
+F020,Reliance Industries,2023 Q1,Scope 1,CO2,1323.76,No
+F076,Reliance Industries,2022 Q1,Scope 3,N2O,2332.1231,No
+F009,Jsw Energy,2022 Q1,Scope 2,N2O,462.78,No
+F147,L&T,2023 Q2,Scope 1,CO2,1229.33,No
+F176,Adani Green,2022 Q2,Scope 1,CO2,3457.79,No
+F161,Reliance Industries,2022 Q1,Scope 1,CO2,3519.41,No
+F170,Reliance Industries,2022 Q1,Scope 2,N2O,2913.47,No
+F142,Jsw Energy,2023 Q1,Scope 2,CO2,1431.51,No
+F063,Adani Green,2023 Q1,Scope 2,N2O,2346.05,No
+F174,Tata Steel,2022 Q1,Scope 2,CO2,4191.36,No
+F193,L&T,2023 Q1,Scope 3,CO2,2422.4672,No
+F197,Reliance Industries,2022 Q2,Scope 3,CH4,3331.6588,No
+F113,Tata Steel,2023 Q1,Scope 1,CO2,1833.49,No
+F062,Reliance Industries,2023 Q2,Scope 1,CH4,4018.22,No
+F156,Reliance Industries,2023 Q2,Scope 3,CH4,2681.923,No
+F161,Reliance Industries,2022 Q2,Scope 3,N2O,1889.4933,No
+F029,Adani Green,2023 Q1,Scope 1,CH4,1407.92,No
+F127,Tata Steel,2023 Q1,Scope 1,CO2,4935.72,No
+F093,Reliance Industries,2022 Q1,Scope 3,CO2,2103.19,No
+F169,Reliance Industries,2023 Q2,Scope 2,CH4,2046.76,No
+F063,Adani Green,2022 Q1,Scope 1,N2O,3397.43,No
+F142,Jsw Energy,2022 Q2,Scope 3,CH4,3221.5746,No
+F089,Adani Green,2022 Q2,Scope 3,CO2,4882.468,No
+F051,Adani Green,2022 Q2,Scope 2,N2O,2857.09,No
+F083,Reliance Industries,2022 Q1,Scope 1,N2O,1140.16,No
+F175,Tata Steel,2023 Q1,Scope 3,N2O,2822.9424,No
+F072,Reliance Industries,2023 Q2,Scope 2,CO2,727.78,No
+F043,Jsw Energy,2022 Q1,Scope 3,CH4,367.9,No
+F123,L&T,2023 Q1,Scope 1,CH4,2303.56,No
+F168,Reliance Industries,2023 Q1,Scope 1,CO2,1650.12,No
+F047,Jsw Energy,2022 Q1,Scope 3,CO2,4564.4035,No
+F148,L&T,2022 Q1,Scope 1,N2O,3466.51,No
+F185,Jsw Energy,2022 Q2,Scope 1,CO2,4237.81,No
+F057,L&T,2023 Q2,Scope 2,N2O,323.04,No
+F047,Jsw Energy,2023 Q2,Scope 2,N2O,3867.63,No
+F185,Jsw Energy,2023 Q2,Scope 3,CO2,748.1141,No
+F017,Reliance Industries,2023 Q2,Scope 3,CO2,654.86,No
+F198,Tata Steel,2022 Q1,Scope 1,N2O,2241.89,No
+F121,Tata Steel,2022 Q2,Scope 2,CH4,3489.31,No
+F028,Adani Green,2023 Q2,Scope 1,CO2,2200.22,No
+F123,L&T,2023 Q2,Scope 1,CO2,3247.72,No
+F045,Jsw Energy,2022 Q2,Scope 2,N2O,3855.39,No
+F194,Tata Steel,2022 Q1,Scope 3,N2O,3111.2618,No
+F025,Adani Green,2023 Q1,Scope 1,CH4,2036.83,No
+F032,L&T,2022 Q1,Scope 1,CO2,4876.37,No
+F095,Reliance Industries,2022 Q1,Scope 1,N2O,4256.16,No
+F057,L&T,2022 Q2,Scope 1,CO2,4947.18,No
+F120,Adani Green,2023 Q1,Scope 2,CH4,425.91,No
+F200,L&T,2022 Q1,Scope 2,CH4,4620.84,No
+F193,L&T,2022 Q1,Scope 3,N2O,4302.5034,No
+F033,Jsw Energy,2023 Q1,Scope 1,CO2,2571.46,No
+F061,L&T,2022 Q1,Scope 1,CO2,968.92,No
+F106,Tata Steel,2023 Q2,Scope 3,N2O,2916.9875,No
+F101,Tata Steel,2022 Q1,Scope 3,CH4,4400.8911,No
+F142,Jsw Energy,2022 Q2,Scope 3,CH4,1791.2918,No
+F024,Adani Green,2022 Q1,Scope 1,CO2,594.47,No
+F187,Reliance Industries,2023 Q1,Scope 2,CO2,2602.85,No
+F104,Adani Green,2022 Q1,Scope 1,N2O,558.53,No
+F046,Adani Green,2023 Q2,Scope 2,N2O,3004.54,No
+F144,Reliance Industries,2023 Q1,Scope 1,CO2,1288.92,No
+F150,Adani Green,2022 Q1,Scope 3,N2O,4950.772,No
+F101,Tata Steel,2023 Q1,Scope 2,N2O,3982.02,No
+F029,Adani Green,2022 Q1,Scope 2,N2O,106.32,No
+F129,L&T,2023 Q1,Scope 3,CH4,1752.0339,No
+F072,Reliance Industries,2022 Q2,Scope 2,CO2,2963.0,No
+F011,Adani Green,2022 Q2,Scope 2,CH4,2067.13,No
+F098,Adani Green,2022 Q1,Scope 2,CO2,1493.38,No
+F122,Adani Green,2022 Q1,Scope 3,N2O,1311.8246,No
+F150,Adani Green,2022 Q1,Scope 3,CO2,3998.6273,No
+F101,Tata Steel,2023 Q1,Scope 1,CH4,4224.63,No
+F036,Tata Steel,2023 Q1,Scope 3,CO2,2249.1121,No
+F046,Adani Green,2023 Q2,Scope 2,N2O,1492.82,No
+F183,Tata Steel,2022 Q1,Scope 3,N2O,4652.8756,No
+F045,Jsw Energy,2023 Q1,Scope 1,CH4,2725.88,No
+F084,Tata Steel,2023 Q2,Scope 3,N2O,3666.3757,No
+F067,L&T,2023 Q2,Scope 2,CO2,216.52,No
+F058,L&T,2023 Q1,Scope 1,CH4,1898.59,No
+F048,Jsw Energy,2023 Q2,Scope 3,CH4,3557.5735,No
+F128,Reliance Industries,2022 Q2,Scope 3,CO2,1488.084,No
+F088,Jsw Energy,2023 Q2,Scope 1,CH4,4949.02,No
+F012,Tata Steel,2023 Q1,Scope 3,CO2,601.1679,No
+F137,Jsw Energy,2023 Q2,Scope 3,CO2,4121.86,No
+F036,Tata Steel,2022 Q2,Scope 2,CO2,2038.67,No
+F149,L&T,2023 Q2,Scope 1,CH4,1823.3,No
+F160,Adani Green,2022 Q1,Scope 3,CH4,380.5978,No
+F003,Tata Steel,2022 Q2,Scope 2,CO2,3069.63,No
+F089,Adani Green,2022 Q1,Scope 2,CO2,1532.06,No
+F053,Jsw Energy,2022 Q1,Scope 2,CH4,3269.38,No
+F084,Tata Steel,2022 Q1,Scope 3,CH4,2397.7501,No
+F026,Reliance Industries,2023 Q1,Scope 1,CH4,1104.36,No
+F161,Reliance Industries,2022 Q1,Scope 3,N2O,5406.2895,No
+F078,Jsw Energy,2022 Q1,Scope 2,CO2,2419.31,No
+F096,Jsw Energy,2023 Q1,Scope 3,N2O,1984.2661,No
+F162,Tata Steel,2022 Q2,Scope 2,CO2,2554.51,No
+F147,L&T,2023 Q2,Scope 1,CH4,2087.4,No
+F089,Adani Green,2023 Q1,Scope 2,CO2,3785.96,No
+F064,L&T,2023 Q2,Scope 1,CO2,4818.79,No
+F046,Adani Green,2022 Q2,Scope 1,CO2,4888.34,No
+F107,Reliance Industries,2023 Q1,Scope 1,CO2,3595.37,No
+F041,L&T,2023 Q1,Scope 1,CH4,4258.79,No
+F110,Adani Green,2023 Q1,Scope 2,CO2,2679.07,No
+F100,Jsw Energy,2022 Q1,Scope 2,N2O,3884.75,No
+F175,Tata Steel,2023 Q1,Scope 2,N2O,3771.0,No
+F192,Adani Green,2022 Q1,Scope 3,CH4,3711.3889,No
+F162,Tata Steel,2023 Q1,Scope 1,CO2,506.34,No
+F190,Jsw Energy,2022 Q1,Scope 3,CH4,2868.75,No
+F011,Adani Green,2022 Q2,Scope 2,CO2,4633.69,No
+F032,L&T,2023 Q2,Scope 2,CO2,822.11,No
+F015,Adani Green,2023 Q1,Scope 2,N2O,381.04,No
+F152,Adani Green,2023 Q2,Scope 1,CH4,4854.5,No
+F120,Adani Green,2023 Q1,Scope 1,CH4,4069.56,No
+F009,Jsw Energy,2022 Q1,Scope 2,N2O,4573.76,No
+F038,Adani Green,2023 Q1,Scope 2,CO2,202.63,No
+F018,Adani Green,2023 Q1,Scope 1,CH4,948.57,No
+F159,Jsw Energy,2023 Q2,Scope 3,N2O,1391.9407,No
+F054,Tata Steel,2022 Q1,Scope 3,CH4,262.7646,No
+F100,Jsw Energy,2023 Q2,Scope 2,N2O,1987.36,No
+F112,Adani Green,2023 Q1,Scope 1,CH4,4710.57,No
+F081,L&T,2023 Q2,Scope 3,CO2,897.12,No
+F175,Tata Steel,2022 Q1,Scope 2,CH4,4466.1,No
+F173,L&T,2022 Q2,Scope 2,N2O,4306.16,No
+F117,Reliance Industries,2022 Q2,Scope 2,N2O,3510.58,No
+F198,Tata Steel,2022 Q2,Scope 1,N2O,1053.84,No
+F035,Adani Green,2022 Q2,Scope 1,CO2,1084.81,No
+F148,L&T,2023 Q1,Scope 1,CH4,618.54,No
+F114,L&T,2022 Q2,Scope 2,N2O,3730.83,No
+F112,Adani Green,2022 Q1,Scope 3,N2O,3608.0164,No
+F072,Reliance Industries,2023 Q1,Scope 1,N2O,4037.93,No
+F194,Tata Steel,2022 Q1,Scope 3,N2O,454.3813,No
+F145,Adani Green,2023 Q1,Scope 1,N2O,3824.73,No
+F014,Reliance Industries,2023 Q2,Scope 3,CO2,2188.667,No
+F182,Tata Steel,2023 Q2,Scope 1,N2O,1638.41,No
+F005,Adani Green,2022 Q1,Scope 1,CO2,4638.62,No
+F158,Tata Steel,2022 Q2,Scope 1,CO2,2700.91,No
+F057,L&T,2022 Q1,Scope 1,N2O,4888.18,No
+F039,Reliance Industries,2022 Q1,Scope 3,CH4,1395.9287,No
+F110,Adani Green,2023 Q1,Scope 2,N2O,2978.0,No
+F043,Jsw Energy,2023 Q2,Scope 1,CH4,2047.72,No
+F080,Tata Steel,2023 Q2,Scope 1,CO2,2384.92,No
+F126,Reliance Industries,2023 Q2,Scope 3,CH4,1560.1904,No
+F077,Adani Green,2022 Q1,Scope 1,N2O,4290.73,No
+F130,Tata Steel,2022 Q1,Scope 3,N2O,2521.882,No
+F154,Jsw Energy,2022 Q2,Scope 2,CO2,3941.05,No
+F003,Tata Steel,2023 Q2,Scope 1,N2O,992.87,No
+F162,Tata Steel,2023 Q1,Scope 1,CH4,3998.2,No
+F128,Reliance Industries,2022 Q2,Scope 2,N2O,951.15,No
+F146,Reliance Industries,2023 Q1,Scope 3,CH4,602.2924,No
+F158,Tata Steel,2022 Q2,Scope 1,CO2,4791.01,No
+F181,Tata Steel,2023 Q2,Scope 1,CO2,2408.38,No
+F166,Tata Steel,2022 Q2,Scope 3,CH4,2703.065,No
+F003,Tata Steel,2023 Q1,Scope 2,CO2,4204.69,No
+F106,Tata Steel,2023 Q1,Scope 3,N2O,947.6129,No
+F132,Adani Green,2022 Q2,Scope 2,CH4,3632.9,No
+F184,Jsw Energy,2022 Q1,Scope 3,CO2,3124.8908,No
+F032,L&T,2023 Q1,Scope 1,N2O,4679.05,No
+F168,Reliance Industries,2022 Q1,Scope 3,CH4,4154.0958,No
+F145,Adani Green,2022 Q1,Scope 1,CH4,132.24,No
+F129,L&T,2023 Q1,Scope 1,CO2,3066.65,No
+F155,Reliance Industries,2023 Q2,Scope 3,CO2,1342.8828,No
+F056,Adani Green,2023 Q2,Scope 1,N2O,3919.95,No
+F083,Reliance Industries,2022 Q1,Scope 1,N2O,4408.78,No
+F092,Adani Green,2023 Q1,Scope 1,CO2,4970.69,No
+F130,Tata Steel,2022 Q1,Scope 3,CO2,1694.1939,No
+F054,Tata Steel,2023 Q1,Scope 1,CO2,4225.8,No
+F161,Reliance Industries,2022 Q1,Scope 1,CO2,2933.56,No
+F124,Tata Steel,2023 Q2,Scope 3,CH4,1192.334,No
+F043,Jsw Energy,2022 Q1,Scope 1,N2O,2457.1,No
+F128,Reliance Industries,2022 Q2,Scope 2,N2O,3801.93,No
+F115,Tata Steel,2023 Q1,Scope 2,N2O,2334.69,No
+F048,Jsw Energy,2022 Q2,Scope 2,CH4,4761.95,No
+F081,L&T,2023 Q1,Scope 1,N2O,4516.03,No
+F076,Reliance Industries,2022 Q1,Scope 3,N2O,4645.595,No
+F032,L&T,2023 Q2,Scope 2,N2O,3245.36,No
+F094,Tata Steel,2023 Q2,Scope 1,CH4,3907.47,No
+F111,Tata Steel,2022 Q2,Scope 3,CH4,1337.8549,No
+F133,Reliance Industries,2023 Q2,Scope 2,CH4,3487.09,No
+F040,Jsw Energy,2023 Q2,Scope 3,CO2,4959.5938,No
+F072,Reliance Industries,2022 Q1,Scope 2,CO2,4294.03,No
+F153,Tata Steel,2022 Q1,Scope 1,CH4,648.78,No
+F153,Tata Steel,2022 Q2,Scope 1,CH4,3771.9,No
+F128,Reliance Industries,2023 Q1,Scope 3,N2O,3071.5541,No
+F198,Tata Steel,2022 Q2,Scope 2,N2O,2591.18,No
+F057,L&T,2023 Q2,Scope 1,CO2,3280.07,No
+F091,Adani Green,2023 Q1,Scope 2,CO2,632.11,No
+F004,Jsw Energy,2022 Q2,Scope 1,CH4,2914.08,No
+F032,L&T,2023 Q1,Scope 2,CH4,637.63,No
+F078,Jsw Energy,2023 Q2,Scope 1,N2O,1996.46,No
+F121,Tata Steel,2023 Q2,Scope 1,N2O,1059.26,No
+F057,L&T,2022 Q2,Scope 3,N2O,3555.9373,No
+F127,Tata Steel,2023 Q1,Scope 1,CO2,3698.27,No
+F004,Jsw Energy,2023 Q1,Scope 1,CO2,2286.97,No
+F005,Adani Green,2023 Q1,Scope 1,N2O,3316.45,No
+F027,Adani Green,2023 Q2,Scope 2,N2O,1242.96,No
+F121,Tata Steel,2023 Q1,Scope 2,CH4,3792.28,No
+F018,Adani Green,2023 Q1,Scope 3,CO2,4685.3058,No
+F079,Reliance Industries,2022 Q2,Scope 2,N2O,2273.65,No
+F006,Adani Green,2023 Q2,Scope 3,N2O,3021.59,No
+F133,Reliance Industries,2023 Q1,Scope 2,N2O,1312.78,No
+F158,Tata Steel,2023 Q1,Scope 3,CO2,1829.7054,No
+F108,Tata Steel,2023 Q1,Scope 3,CO2,1549.7178,No
+F070,Reliance Industries,2022 Q1,Scope 2,CH4,2500.38,No
+F012,Tata Steel,2022 Q2,Scope 2,N2O,1314.88,No
+F009,Jsw Energy,2023 Q1,Scope 2,N2O,2425.58,No
+F194,Tata Steel,2022 Q2,Scope 1,CO2,3143.07,No
+F049,Jsw Energy,2023 Q1,Scope 2,CO2,3426.65,No
+F198,Tata Steel,2023 Q1,Scope 3,CO2,3334.694,No
+F054,Tata Steel,2022 Q1,Scope 2,N2O,1554.47,No
+F177,Tata Steel,2022 Q2,Scope 3,N2O,613.2169,No
+F115,Tata Steel,2023 Q1,Scope 2,N2O,2269.82,No
+F159,Jsw Energy,2022 Q1,Scope 3,N2O,1258.5577,No
+F106,Tata Steel,2022 Q1,Scope 1,CH4,2102.71,No
+F022,Adani Green,2022 Q2,Scope 2,CO2,1951.99,No
+F010,Jsw Energy,2022 Q1,Scope 3,CH4,942.6561,No
+F106,Tata Steel,2022 Q1,Scope 1,N2O,4612.42,No
+F062,Reliance Industries,2023 Q2,Scope 3,CO2,5180.6869,No
+F124,Tata Steel,2023 Q2,Scope 3,CH4,3307.6825,No
+F105,Jsw Energy,2022 Q1,Scope 2,N2O,4673.95,No
+F083,Reliance Industries,2022 Q1,Scope 2,N2O,2977.11,No
+F088,Jsw Energy,2023 Q1,Scope 3,CO2,2214.8565,No
+F014,Reliance Industries,2023 Q1,Scope 2,CO2,2253.86,No
+F131,Adani Green,2023 Q1,Scope 3,CH4,2426.7212,No
+F099,Tata Steel,2022 Q2,Scope 1,N2O,2903.42,No
+F067,L&T,2022 Q2,Scope 3,CH4,3101.844,No
+F050,Jsw Energy,2022 Q1,Scope 3,CH4,3483.928,No
+F005,Adani Green,2022 Q1,Scope 2,CO2,4798.16,No
+F075,Tata Steel,2022 Q2,Scope 2,CH4,2226.6,No
+F151,Reliance Industries,2023 Q2,Scope 3,CO2,2848.9538,No
+F021,L&T,2022 Q1,Scope 1,N2O,751.3,No
+F077,Adani Green,2023 Q2,Scope 2,CO2,3286.05,No
+F082,Jsw Energy,2022 Q2,Scope 2,CO2,1018.05,No
+F003,Tata Steel,2023 Q1,Scope 1,N2O,2978.67,No
+F079,Reliance Industries,2023 Q2,Scope 2,CO2,1158.82,No
+F032,L&T,2022 Q1,Scope 3,CH4,4416.213,No
+F037,Tata Steel,2022 Q2,Scope 3,CH4,1348.032,No
+F101,Tata Steel,2023 Q1,Scope 2,CH4,2825.42,No
+F152,Adani Green,2022 Q1,Scope 3,N2O,4051.4678,No
+F093,Reliance Industries,2023 Q1,Scope 2,N2O,3797.37,No
+F004,Jsw Energy,2023 Q1,Scope 2,N2O,4111.77,No
+F142,Jsw Energy,2023 Q1,Scope 3,CH4,1444.1264,No
+F159,Jsw Energy,2022 Q2,Scope 2,CH4,3062.42,No
+F197,Reliance Industries,2023 Q1,Scope 1,CH4,1226.91,No
+F055,Reliance Industries,2022 Q2,Scope 1,N2O,1442.19,No
+F200,L&T,2022 Q2,Scope 1,N2O,3767.87,No
+F022,Adani Green,2023 Q2,Scope 1,N2O,1528.64,No
+F063,Adani Green,2023 Q2,Scope 2,CO2,438.03,No
+F015,Adani Green,2022 Q2,Scope 1,CH4,2291.78,No
+F060,Adani Green,2022 Q2,Scope 2,CH4,4099.03,No
+F174,Tata Steel,2023 Q2,Scope 3,CH4,2713.3181,No
+F153,Tata Steel,2022 Q2,Scope 1,CO2,769.84,No
+F082,Jsw Energy,2023 Q2,Scope 2,CH4,3217.94,No
+F138,Jsw Energy,2023 Q2,Scope 3,CO2,3817.749,No
+F038,Adani Green,2023 Q1,Scope 1,CH4,3796.86,No
+F177,Tata Steel,2022 Q1,Scope 2,CO2,1722.54,No
+F076,Reliance Industries,2023 Q2,Scope 1,N2O,2472.08,No
+F072,Reliance Industries,2023 Q1,Scope 2,N2O,3592.6,No
+F126,Reliance Industries,2023 Q1,Scope 2,CO2,4482.06,No
+F151,Reliance Industries,2023 Q2,Scope 3,CO2,3888.6305,No
+F160,Adani Green,2023 Q1,Scope 3,CO2,1035.2524,No
+F018,Adani Green,2023 Q1,Scope 1,CO2,93.17,No
+F077,Adani Green,2022 Q1,Scope 1,CO2,489.88,No
+F060,Adani Green,2022 Q1,Scope 2,N2O,627.3,No
+F102,L&T,2023 Q2,Scope 2,N2O,4443.85,No
+F075,Tata Steel,2022 Q1,Scope 1,CO2,2192.52,No
+F194,Tata Steel,2023 Q1,Scope 3,CO2,1166.7681,No
+F151,Reliance Industries,2022 Q1,Scope 3,CH4,3803.9617,No
+F121,Tata Steel,2022 Q1,Scope 1,N2O,4902.53,No
+F147,L&T,2023 Q2,Scope 2,N2O,1144.49,No
+F190,Jsw Energy,2022 Q2,Scope 3,CO2,4243.11,No
+F023,L&T,2022 Q1,Scope 2,N2O,2303.31,No
+F027,Adani Green,2023 Q2,Scope 1,CH4,3192.9,No
+F019,Jsw Energy,2022 Q2,Scope 2,CO2,3601.52,No
+F027,Adani Green,2022 Q2,Scope 1,CO2,4964.31,No
+F093,Reliance Industries,2023 Q2,Scope 1,CO2,2143.74,No
+F113,Tata Steel,2022 Q2,Scope 1,CO2,563.56,No
+F027,Adani Green,2022 Q2,Scope 3,CO2,1541.865,No
+F091,Adani Green,2023 Q2,Scope 1,CH4,2191.88,No
+F030,Jsw Energy,2023 Q1,Scope 2,CO2,4804.76,No
+F189,Jsw Energy,2022 Q2,Scope 1,CH4,4966.99,No
+F127,Tata Steel,2022 Q1,Scope 2,CO2,2346.08,No
+F156,Reliance Industries,2023 Q1,Scope 2,CO2,278.14,No
+F124,Tata Steel,2023 Q1,Scope 2,CH4,3551.91,No
+F015,Adani Green,2023 Q1,Scope 2,CH4,3834.95,No
+F023,L&T,2022 Q2,Scope 1,CH4,4076.77,No
+F108,Tata Steel,2022 Q2,Scope 1,CO2,1402.07,No
+F071,Adani Green,2022 Q1,Scope 1,CO2,2817.03,No
+F048,Jsw Energy,2023 Q1,Scope 1,N2O,4610.15,No
+F136,L&T,2023 Q2,Scope 3,N2O,1197.6751,No
+F126,Reliance Industries,2023 Q2,Scope 1,N2O,2154.82,No
+F019,Jsw Energy,2023 Q2,Scope 2,CO2,1398.72,No
+F106,Tata Steel,2023 Q2,Scope 1,CO2,2433.64,No
+F175,Tata Steel,2023 Q2,Scope 1,CH4,1785.88,No
+F056,Adani Green,2022 Q1,Scope 3,CH4,4694.8764,No
+F019,Jsw Energy,2022 Q1,Scope 1,CH4,3069.11,No
+F029,Adani Green,2022 Q2,Scope 1,CO2,2819.92,No
+F027,Adani Green,2022 Q2,Scope 2,N2O,1772.23,No
+F182,Tata Steel,2022 Q1,Scope 1,N2O,2502.25,No
+F162,Tata Steel,2022 Q1,Scope 3,CO2,3851.935,No
+F085,Adani Green,2022 Q2,Scope 2,N2O,3031.48,No
+F191,Jsw Energy,2023 Q2,Scope 3,N2O,601.62,No
+F086,Adani Green,2022 Q1,Scope 2,N2O,2060.17,No
+F127,Tata Steel,2022 Q2,Scope 2,CH4,2452.03,No
+F012,Tata Steel,2022 Q1,Scope 2,CH4,1782.21,No
+F028,Adani Green,2023 Q2,Scope 3,CO2,103.31,No
+F170,Reliance Industries,2022 Q2,Scope 1,CO2,3568.05,No
+F190,Jsw Energy,2023 Q2,Scope 3,CO2,2290.64,No
+F046,Adani Green,2023 Q2,Scope 1,N2O,4937.24,No
+F171,Adani Green,2023 Q2,Scope 3,CO2,1728.8069,No
+F141,L&T,2022 Q2,Scope 1,CH4,372.7,No
+F126,Reliance Industries,2022 Q1,Scope 1,N2O,3677.7,No
+F090,Reliance Industries,2023 Q1,Scope 2,CH4,2576.78,No
+F124,Tata Steel,2022 Q1,Scope 2,CH4,2972.77,No
+F193,L&T,2023 Q2,Scope 2,N2O,3995.86,No
+F196,Adani Green,2022 Q2,Scope 1,CO2,2798.95,No
+F057,L&T,2022 Q1,Scope 2,CO2,204.44,No
+F138,Jsw Energy,2022 Q1,Scope 1,CO2,2646.82,No
+F198,Tata Steel,2022 Q2,Scope 1,CO2,2960.39,No
+F191,Jsw Energy,2022 Q2,Scope 1,N2O,1696.88,No
+F165,Adani Green,2022 Q2,Scope 3,N2O,622.9957,No
+F143,L&T,2023 Q2,Scope 1,N2O,1684.41,No
+F097,L&T,2023 Q1,Scope 1,N2O,3307.16,No
+F120,Adani Green,2023 Q1,Scope 3,CH4,2731.167,No
+F025,Adani Green,2022 Q2,Scope 2,N2O,2861.41,No
+F199,Jsw Energy,2023 Q1,Scope 1,CO2,2409.39,No
+F053,Jsw Energy,2022 Q2,Scope 2,N2O,1958.41,No
+F193,L&T,2022 Q1,Scope 2,CH4,2816.97,No
+F113,Tata Steel,2022 Q1,Scope 1,N2O,4263.92,No
+F177,Tata Steel,2023 Q1,Scope 1,N2O,1867.58,No
+F042,L&T,2023 Q2,Scope 3,CH4,3447.6118,No
+F084,Tata Steel,2023 Q1,Scope 3,CO2,4785.5802,No
+F097,L&T,2023 Q2,Scope 1,CO2,3739.05,No
+F153,Tata Steel,2023 Q1,Scope 1,CH4,4330.71,No
+F151,Reliance Industries,2022 Q2,Scope 3,N2O,1947.4242,No
+F015,Adani Green,2023 Q2,Scope 1,N2O,2840.62,No
+F199,Jsw Energy,2022 Q1,Scope 2,N2O,2415.51,No
+F156,Reliance Industries,2023 Q1,Scope 3,CH4,5161.4595,No
+F009,Jsw Energy,2023 Q2,Scope 1,N2O,2359.52,No
+F011,Adani Green,2023 Q1,Scope 1,CO2,4799.96,No
+F156,Reliance Industries,2023 Q1,Scope 2,CH4,152.67,No
+F187,Reliance Industries,2022 Q2,Scope 3,N2O,2461.8885,No
+F007,Adani Green,2023 Q2,Scope 1,CO2,3223.43,No
+F026,Reliance Industries,2023 Q1,Scope 2,CO2,3987.54,No
+F137,Jsw Energy,2023 Q2,Scope 1,N2O,2592.73,No
+F121,Tata Steel,2022 Q1,Scope 2,CH4,3770.78,No
+F042,L&T,2023 Q1,Scope 1,CH4,348.87,No
+F003,Tata Steel,2022 Q2,Scope 1,CO2,2278.95,No
+F063,Adani Green,2022 Q1,Scope 2,CH4,2550.35,No
+F018,Adani Green,2023 Q2,Scope 1,CO2,2694.43,No
+F085,Adani Green,2022 Q2,Scope 2,CH4,3868.63,No
+F181,Tata Steel,2022 Q1,Scope 3,CH4,297.6883,No
+F015,Adani Green,2022 Q1,Scope 2,N2O,579.69,No
+F051,Adani Green,2022 Q1,Scope 2,CH4,1933.86,No
+F136,L&T,2022 Q2,Scope 2,CO2,2753.65,No
+F174,Tata Steel,2022 Q2,Scope 1,CO2,1643.04,No
+F041,L&T,2022 Q2,Scope 1,CO2,4614.76,No
+F066,Adani Green,2023 Q2,Scope 2,CH4,1222.43,No
+F141,L&T,2022 Q1,Scope 3,N2O,2583.2196,No
+F042,L&T,2022 Q1,Scope 2,CO2,1562.45,No
+F106,Tata Steel,2023 Q1,Scope 3,N2O,3844.3353,No
+F073,Tata Steel,2023 Q2,Scope 3,CH4,695.19,No
+F165,Adani Green,2023 Q1,Scope 2,CO2,4607.08,No
+F197,Reliance Industries,2022 Q2,Scope 3,CH4,2391.3231,No
+F110,Adani Green,2022 Q2,Scope 1,CO2,4313.43,No
+F018,Adani Green,2022 Q2,Scope 1,CH4,1094.1,No
+F067,L&T,2022 Q2,Scope 3,CH4,5193.7171,No
+F066,Adani Green,2022 Q2,Scope 2,N2O,3352.59,No
+F028,Adani Green,2023 Q2,Scope 3,CH4,3888.52,No
+F184,Jsw Energy,2023 Q2,Scope 2,CO2,3140.95,No
+F182,Tata Steel,2022 Q2,Scope 3,N2O,1260.7738,No
+F151,Reliance Industries,2023 Q2,Scope 1,N2O,416.29,No
+F083,Reliance Industries,2022 Q1,Scope 1,CO2,96.09,No
+F125,L&T,2023 Q2,Scope 2,CO2,1224.11,No
+F017,Reliance Industries,2023 Q1,Scope 1,CO2,3899.81,No
+F199,Jsw Energy,2022 Q2,Scope 2,CO2,1065.82,No
+F154,Jsw Energy,2023 Q1,Scope 2,CO2,4448.19,No
+F133,Reliance Industries,2023 Q2,Scope 3,N2O,2211.0873,No
+F156,Reliance Industries,2023 Q2,Scope 3,N2O,3199.4069,No
+F189,Jsw Energy,2023 Q1,Scope 1,N2O,2263.7,No
+F008,Tata Steel,2022 Q2,Scope 1,CO2,4326.03,No
+F058,L&T,2023 Q1,Scope 3,N2O,4352.7373,No
+F137,Jsw Energy,2022 Q2,Scope 3,CO2,4294.79,No
+F183,Tata Steel,2023 Q2,Scope 1,CO2,2678.48,No
+F086,Adani Green,2022 Q1,Scope 1,CO2,2267.79,No
+F071,Adani Green,2022 Q1,Scope 1,N2O,2496.01,No
+F107,Reliance Industries,2022 Q2,Scope 1,CO2,4601.71,No
+F105,Jsw Energy,2023 Q1,Scope 2,N2O,2739.77,No
+F127,Tata Steel,2023 Q2,Scope 3,CH4,1410.4,No
+F170,Reliance Industries,2022 Q1,Scope 3,N2O,2563.0937,No
+F094,Tata Steel,2023 Q2,Scope 1,N2O,886.98,No
+F086,Adani Green,2023 Q2,Scope 1,CO2,4317.26,No
+F181,Tata Steel,2022 Q2,Scope 2,CO2,1597.82,No
+F195,L&T,2022 Q1,Scope 1,CH4,3825.5,No
+F067,L&T,2022 Q1,Scope 3,CH4,3766.3401,No
+F087,Adani Green,2022 Q2,Scope 3,CO2,4885.6576,No
+F139,Jsw Energy,2023 Q2,Scope 3,N2O,2013.0538,No
+F161,Reliance Industries,2023 Q1,Scope 3,N2O,2140.4226,No
+F200,L&T,2022 Q2,Scope 2,CH4,707.7,No
+F182,Tata Steel,2023 Q2,Scope 2,N2O,1703.95,No
+F187,Reliance Industries,2022 Q1,Scope 2,CH4,3023.57,No
+F021,L&T,2023 Q2,Scope 2,N2O,2101.72,No
+F013,Reliance Industries,2023 Q1,Scope 1,CO2,72.97,No
+F018,Adani Green,2023 Q1,Scope 2,CH4,1271.98,No
+F129,L&T,2022 Q1,Scope 1,CH4,1645.13,No
+F129,L&T,2022 Q1,Scope 1,CO2,1271.48,No
+F047,Jsw Energy,2023 Q2,Scope 2,CO2,1183.23,No
+F113,Tata Steel,2022 Q2,Scope 3,CH4,3135.2882,No
+F148,L&T,2023 Q2,Scope 1,CO2,2647.47,No
+F052,Tata Steel,2022 Q2,Scope 1,CO2,1670.25,No
+F046,Adani Green,2022 Q2,Scope 3,CO2,3796.74,No
+F014,Reliance Industries,2022 Q1,Scope 1,CO2,2430.7,No
+F082,Jsw Energy,2022 Q1,Scope 3,CH4,4664.5184,No
+F181,Tata Steel,2022 Q1,Scope 1,CH4,2563.55,No
+F103,Adani Green,2022 Q2,Scope 1,N2O,2866.4,No
+F194,Tata Steel,2023 Q1,Scope 1,CH4,4646.07,No
+F086,Adani Green,2023 Q2,Scope 3,CH4,858.7589,No
+F124,Tata Steel,2023 Q1,Scope 1,CH4,2645.6,No
+F096,Jsw Energy,2023 Q2,Scope 3,CH4,4396.4498,No
+F077,Adani Green,2022 Q1,Scope 3,CO2,2468.89,No
+F184,Jsw Energy,2022 Q2,Scope 1,N2O,3901.9,No
+F147,L&T,2023 Q2,Scope 3,N2O,2711.0032,No
+F064,L&T,2022 Q2,Scope 3,N2O,1971.3,No
+F003,Tata Steel,2022 Q2,Scope 1,N2O,4296.74,No
+F193,L&T,2023 Q2,Scope 2,N2O,3792.89,No
+F127,Tata Steel,2023 Q1,Scope 2,CO2,1486.21,No
+F180,Reliance Industries,2023 Q1,Scope 2,CO2,2653.12,No
+F098,Adani Green,2023 Q2,Scope 1,CO2,4329.05,No
+F066,Adani Green,2022 Q2,Scope 3,CH4,3438.4823,No
+F105,Jsw Energy,2023 Q1,Scope 3,N2O,4297.0304,No
+F150,Adani Green,2023 Q1,Scope 3,CH4,1748.188,No
+F035,Adani Green,2023 Q1,Scope 3,CO2,2629.36,No
+F048,Jsw Energy,2022 Q2,Scope 3,CH4,4350.96,No
+F155,Reliance Industries,2023 Q1,Scope 1,CH4,400.0,No
+F006,Adani Green,2023 Q2,Scope 2,CO2,4737.45,No
+F188,Tata Steel,2023 Q2,Scope 2,N2O,2400.9,No
+F068,Jsw Energy,2023 Q1,Scope 1,CH4,3887.35,No
+F104,Adani Green,2022 Q2,Scope 1,CH4,3231.03,No
+F063,Adani Green,2023 Q1,Scope 2,N2O,1139.33,No
+F170,Reliance Industries,2023 Q1,Scope 1,CO2,4799.0,No
+F079,Reliance Industries,2022 Q1,Scope 1,N2O,3657.83,No
+F142,Jsw Energy,2023 Q2,Scope 3,CH4,2571.4593,No
+F195,L&T,2022 Q1,Scope 1,N2O,3338.0,No
+F099,Tata Steel,2022 Q2,Scope 2,N2O,4623.81,No
+F156,Reliance Industries,2022 Q2,Scope 2,CO2,3591.86,No
+F143,L&T,2022 Q1,Scope 3,CO2,2370.446,No
+F197,Reliance Industries,2023 Q1,Scope 3,CH4,3703.0569,No
+F088,Jsw Energy,2023 Q1,Scope 1,CO2,2135.32,No
+F138,Jsw Energy,2023 Q2,Scope 3,CO2,4016.4774,No
+F049,Jsw Energy,2022 Q1,Scope 2,N2O,2536.5,No
+F068,Jsw Energy,2022 Q2,Scope 1,CO2,4254.34,No
+F016,Reliance Industries,2023 Q1,Scope 1,CO2,1897.31,No
+F016,Reliance Industries,2022 Q1,Scope 1,CO2,4286.67,No
+F059,Reliance Industries,2022 Q1,Scope 2,CO2,2709.88,No
+F022,Adani Green,2022 Q2,Scope 2,CO2,4482.51,No
+F103,Adani Green,2023 Q1,Scope 2,N2O,4156.0,No
+F005,Adani Green,2023 Q1,Scope 3,CH4,2731.8928,No
+F011,Adani Green,2022 Q1,Scope 3,N2O,84.4,No
+F109,Jsw Energy,2023 Q1,Scope 1,CO2,84.55,No
+F072,Reliance Industries,2023 Q2,Scope 1,CH4,3865.97,No
+F181,Tata Steel,2022 Q2,Scope 2,N2O,4994.79,No
+F056,Adani Green,2022 Q1,Scope 3,N2O,4341.6707,No
+F010,Jsw Energy,2023 Q1,Scope 2,CH4,4845.85,No
+F023,L&T,2023 Q2,Scope 1,CO2,695.8,No
+F167,Reliance Industries,2023 Q2,Scope 3,N2O,2429.7024,No
+F196,Adani Green,2023 Q2,Scope 2,CH4,3517.31,No
+F012,Tata Steel,2023 Q2,Scope 2,CH4,2893.0,No
+F141,L&T,2022 Q2,Scope 1,CH4,4115.76,No
+F088,Jsw Energy,2023 Q1,Scope 2,CO2,1917.42,No
+F014,Reliance Industries,2023 Q1,Scope 2,CH4,1203.13,No
+F028,Adani Green,2023 Q1,Scope 1,CH4,3085.38,No
+F115,Tata Steel,2023 Q1,Scope 1,N2O,1942.8,No
+F148,L&T,2022 Q2,Scope 1,CH4,3632.78,No
+F042,L&T,2023 Q2,Scope 1,CO2,4435.1,No
+F129,L&T,2022 Q2,Scope 1,N2O,3104.04,No
+F140,Adani Green,2022 Q2,Scope 1,N2O,1562.42,No
+F083,Reliance Industries,2023 Q2,Scope 3,CO2,3968.0177,No
+F073,Tata Steel,2023 Q2,Scope 2,CH4,3813.14,No
+F003,Tata Steel,2022 Q1,Scope 1,CH4,1512.54,No
+F162,Tata Steel,2022 Q2,Scope 3,N2O,4044.9461,No
+F150,Adani Green,2023 Q1,Scope 1,CO2,193.32,No
+F112,Adani Green,2023 Q2,Scope 2,N2O,2881.41,No
+F120,Adani Green,2022 Q2,Scope 2,CO2,1949.55,No
+F155,Reliance Industries,2022 Q1,Scope 2,N2O,2729.42,No
+F171,Adani Green,2023 Q1,Scope 1,CH4,4965.24,No
+F013,Reliance Industries,2023 Q1,Scope 1,N2O,968.64,No
+F019,Jsw Energy,2023 Q2,Scope 2,CH4,2778.34,No
+F068,Jsw Energy,2022 Q2,Scope 2,CH4,901.71,No
+F134,Tata Steel,2023 Q1,Scope 1,CH4,4031.94,No
+F148,L&T,2022 Q1,Scope 2,N2O,3868.62,No
+F081,L&T,2023 Q1,Scope 1,N2O,2670.34,No
+F182,Tata Steel,2022 Q2,Scope 2,CH4,4061.97,No
+F024,Adani Green,2023 Q2,Scope 1,CO2,279.14,No
+F055,Reliance Industries,2023 Q2,Scope 3,N2O,936.9203,No
+F056,Adani Green,2022 Q1,Scope 3,N2O,1890.5699,No
+F191,Jsw Energy,2022 Q2,Scope 3,CH4,4697.92,No
+F175,Tata Steel,2023 Q1,Scope 2,N2O,3192.85,No
+F038,Adani Green,2022 Q2,Scope 3,CH4,3010.17,No
+F075,Tata Steel,2023 Q2,Scope 3,N2O,4348.86,No
+F023,L&T,2022 Q1,Scope 3,CH4,4115.1509,No
+F142,Jsw Energy,2022 Q1,Scope 2,CO2,4352.3,No
+F012,Tata Steel,2022 Q2,Scope 3,CO2,3591.3305,No
+F193,L&T,2022 Q1,Scope 2,CO2,3260.39,No
+F022,Adani Green,2023 Q2,Scope 1,N2O,1083.03,No
+F013,Reliance Industries,2022 Q2,Scope 2,CH4,2051.69,No
+F101,Tata Steel,2023 Q2,Scope 2,CH4,2402.82,No
+F055,Reliance Industries,2022 Q2,Scope 3,CH4,1465.5124,No
+F072,Reliance Industries,2022 Q1,Scope 3,CH4,4841.5443,No
+F080,Tata Steel,2023 Q1,Scope 2,CH4,3187.8,No
+F072,Reliance Industries,2023 Q1,Scope 2,N2O,4547.92,No
+F081,L&T,2022 Q2,Scope 3,CH4,4751.75,No
+F008,Tata Steel,2022 Q2,Scope 2,CH4,3218.33,No
+F154,Jsw Energy,2023 Q2,Scope 1,N2O,107.49,No
+F033,Jsw Energy,2022 Q1,Scope 2,CO2,4162.19,No
+F185,Jsw Energy,2022 Q2,Scope 1,CH4,1795.35,No
+F177,Tata Steel,2022 Q2,Scope 1,N2O,930.97,No
+F083,Reliance Industries,2023 Q2,Scope 3,CH4,1962.9735,No
+F098,Adani Green,2023 Q2,Scope 1,CH4,4615.88,No
+F118,Jsw Energy,2023 Q1,Scope 2,CO2,1530.83,No
+F122,Adani Green,2023 Q2,Scope 3,CH4,2440.9876,No
+F089,Adani Green,2022 Q1,Scope 2,N2O,1674.72,No
+F198,Tata Steel,2022 Q2,Scope 2,CO2,3245.74,No
+F165,Adani Green,2022 Q1,Scope 2,CO2,3114.72,No
+F108,Tata Steel,2022 Q2,Scope 1,CO2,2078.68,No
+F062,Reliance Industries,2022 Q1,Scope 2,CO2,2458.83,No
+F007,Adani Green,2023 Q2,Scope 1,CO2,3902.33,No
+F023,L&T,2023 Q2,Scope 3,CH4,3436.6858,No
+F116,Reliance Industries,2023 Q2,Scope 2,N2O,3373.97,No
+F067,L&T,2022 Q1,Scope 1,CO2,2524.32,No
+F190,Jsw Energy,2022 Q2,Scope 2,N2O,4152.62,No
+F033,Jsw Energy,2022 Q2,Scope 3,CO2,5429.1163,No
+F147,L&T,2023 Q2,Scope 3,N2O,4835.4238,No
+F108,Tata Steel,2023 Q2,Scope 2,CO2,783.3,No
+F131,Adani Green,2022 Q1,Scope 2,N2O,4038.18,No
+F156,Reliance Industries,2022 Q2,Scope 3,CH4,4925.53,No
+F090,Reliance Industries,2023 Q2,Scope 3,CH4,2926.7456,No
+F001,L&T,2022 Q1,Scope 2,CO2,1931.14,No
+F126,Reliance Industries,2022 Q2,Scope 3,N2O,3586.9128,No
+F188,Tata Steel,2023 Q1,Scope 1,CO2,2192.19,No
+F173,L&T,2023 Q1,Scope 2,CO2,3113.98,No
+F155,Reliance Industries,2023 Q1,Scope 3,CH4,4943.083,No
+F165,Adani Green,2022 Q1,Scope 1,CO2,4608.99,No
+F012,Tata Steel,2022 Q2,Scope 2,CO2,548.27,No
+F024,Adani Green,2022 Q1,Scope 3,CH4,2949.1194,No
+F005,Adani Green,2023 Q1,Scope 3,N2O,2617.0703,No
+F176,Adani Green,2023 Q1,Scope 1,CO2,4990.76,No
+F200,L&T,2023 Q1,Scope 2,CO2,922.25,No
+F097,L&T,2023 Q2,Scope 1,CO2,1919.35,No
+F130,Tata Steel,2023 Q1,Scope 3,N2O,3296.983,No
+F031,Tata Steel,2022 Q2,Scope 2,N2O,3879.07,No
+F154,Jsw Energy,2023 Q2,Scope 3,CO2,3326.9594,No
+F152,Adani Green,2022 Q2,Scope 3,CO2,2620.3764,No
+F082,Jsw Energy,2023 Q2,Scope 2,CH4,3511.53,No
+F150,Adani Green,2022 Q1,Scope 2,CO2,402.68,No
+F168,Reliance Industries,2023 Q1,Scope 1,CH4,3834.83,No
+F028,Adani Green,2022 Q2,Scope 1,CO2,2705.01,No
+F149,L&T,2022 Q2,Scope 1,CO2,2242.38,No
+F026,Reliance Industries,2023 Q1,Scope 3,CO2,1860.7438,No
+F172,Adani Green,2022 Q1,Scope 2,N2O,2978.15,No
+F051,Adani Green,2023 Q2,Scope 2,CH4,1338.04,No
+F056,Adani Green,2023 Q1,Scope 2,N2O,2538.44,No
+F049,Jsw Energy,2022 Q2,Scope 2,N2O,1644.11,No
+F109,Jsw Energy,2022 Q2,Scope 1,CO2,3858.7,No
+F131,Adani Green,2023 Q1,Scope 2,N2O,2079.69,No
+F186,Adani Green,2022 Q1,Scope 2,CO2,439.97,No
+F111,Tata Steel,2023 Q2,Scope 2,CH4,1486.0,No
+F138,Jsw Energy,2023 Q2,Scope 3,N2O,396.6963,No
+F081,L&T,2022 Q2,Scope 3,CO2,1724.46,No
+F186,Adani Green,2023 Q2,Scope 2,CO2,3569.77,No
+F149,L&T,2022 Q1,Scope 1,CH4,1244.99,No
+F119,Reliance Industries,2022 Q2,Scope 3,CH4,4645.6366,No
+F061,L&T,2022 Q1,Scope 3,N2O,3635.37,No
+F193,L&T,2022 Q2,Scope 3,N2O,4563.118,No
+F090,Reliance Industries,2022 Q1,Scope 3,CO2,1337.4356,No
+F070,Reliance Industries,2023 Q2,Scope 3,N2O,527.4332,No
+F076,Reliance Industries,2023 Q1,Scope 1,CH4,1979.48,No
+F127,Tata Steel,2023 Q2,Scope 3,CO2,2025.95,No
+F090,Reliance Industries,2022 Q2,Scope 2,CO2,4195.17,No
+F053,Jsw Energy,2022 Q1,Scope 2,N2O,2104.08,No
+F008,Tata Steel,2022 Q1,Scope 2,CO2,4229.93,No
+F083,Reliance Industries,2022 Q1,Scope 1,CO2,3136.15,No
+F200,L&T,2023 Q1,Scope 3,N2O,1959.3291,No
+F047,Jsw Energy,2022 Q1,Scope 3,N2O,1221.953,No
+F176,Adani Green,2022 Q2,Scope 2,CH4,300.75,No
+F018,Adani Green,2023 Q2,Scope 2,N2O,4099.18,No
+F198,Tata Steel,2022 Q2,Scope 1,CH4,104.53,No
+F185,Jsw Energy,2023 Q1,Scope 1,N2O,2781.0,No
+F090,Reliance Industries,2023 Q2,Scope 3,N2O,3597.3035,No
+F052,Tata Steel,2023 Q2,Scope 2,N2O,2055.74,No
+F034,Adani Green,2023 Q2,Scope 1,CH4,437.58,No
+F035,Adani Green,2022 Q2,Scope 2,CH4,3087.52,No
+F076,Reliance Industries,2022 Q2,Scope 3,CH4,2226.3712,No
+F105,Jsw Energy,2022 Q1,Scope 2,CH4,769.29,No
+F065,L&T,2023 Q2,Scope 2,N2O,3008.89,No
+F089,Adani Green,2023 Q1,Scope 3,CH4,1802.2969,No
+F089,Adani Green,2023 Q1,Scope 2,CH4,3707.94,No
+F143,L&T,2022 Q2,Scope 3,CH4,3134.2445,No
+F025,Adani Green,2023 Q2,Scope 2,CO2,1671.05,No
+F037,Tata Steel,2022 Q1,Scope 3,CO2,456.6009,No
+F156,Reliance Industries,2022 Q1,Scope 1,CH4,4237.93,No
+F058,L&T,2023 Q2,Scope 3,N2O,4750.1919,No
+F013,Reliance Industries,2023 Q2,Scope 2,CH4,3912.43,No
+F198,Tata Steel,2023 Q2,Scope 1,CO2,349.13,No
+F194,Tata Steel,2022 Q2,Scope 2,N2O,3133.74,No
+F198,Tata Steel,2023 Q1,Scope 2,CH4,228.22,No
+F028,Adani Green,2022 Q1,Scope 2,CO2,1437.79,No
+F059,Reliance Industries,2023 Q1,Scope 2,N2O,3734.66,No
+F166,Tata Steel,2022 Q2,Scope 2,CO2,923.68,No
+F177,Tata Steel,2023 Q1,Scope 2,N2O,1962.58,No
+F011,Adani Green,2022 Q1,Scope 1,CO2,690.6,No
+F004,Jsw Energy,2023 Q1,Scope 3,CH4,1785.8246,No
+F120,Adani Green,2023 Q2,Scope 2,N2O,4949.3,No
+F176,Adani Green,2023 Q2,Scope 3,CH4,3153.3404,No
+F072,Reliance Industries,2023 Q1,Scope 1,CO2,919.35,No
+F028,Adani Green,2023 Q1,Scope 1,CO2,2465.21,No
+F168,Reliance Industries,2023 Q2,Scope 1,CH4,2956.74,No
+F053,Jsw Energy,2023 Q1,Scope 3,CH4,1174.6298,No
+F125,L&T,2023 Q1,Scope 1,N2O,1574.82,No
+F031,Tata Steel,2022 Q1,Scope 3,CH4,922.3222,No
+F086,Adani Green,2023 Q2,Scope 3,CH4,842.9227,No
+F064,L&T,2022 Q1,Scope 1,CH4,3132.1,No
+F041,L&T,2022 Q2,Scope 3,CH4,3613.501,No
+F030,Jsw Energy,2023 Q1,Scope 3,N2O,1968.5236,No
+F138,Jsw Energy,2023 Q2,Scope 1,CH4,70.83,No
+F138,Jsw Energy,2022 Q2,Scope 1,CO2,1698.04,No
+F122,Adani Green,2023 Q2,Scope 2,CH4,4151.2,No
+F174,Tata Steel,2023 Q1,Scope 2,CO2,4411.01,No
+F159,Jsw Energy,2022 Q2,Scope 2,CO2,284.04,No
+F150,Adani Green,2022 Q1,Scope 3,N2O,3725.8494,No
+F136,L&T,2022 Q2,Scope 2,N2O,324.84,No
+F087,Adani Green,2022 Q2,Scope 2,N2O,574.69,No
+F123,L&T,2023 Q1,Scope 3,N2O,3034.3254,No
+F128,Reliance Industries,2023 Q1,Scope 2,N2O,169.73,No
+F155,Reliance Industries,2022 Q2,Scope 1,N2O,1309.62,No
+F095,Reliance Industries,2022 Q1,Scope 2,N2O,2624.96,No
+F152,Adani Green,2022 Q1,Scope 1,CO2,1753.99,No
+F048,Jsw Energy,2022 Q2,Scope 3,CH4,4506.3507,No
+F195,L&T,2022 Q2,Scope 3,N2O,1399.9373,No
+F054,Tata Steel,2023 Q2,Scope 3,CO2,3722.0575,No
+F172,Adani Green,2023 Q2,Scope 3,N2O,4854.6606,No
+F055,Reliance Industries,2022 Q2,Scope 3,N2O,3995.7127,No
+F043,Jsw Energy,2023 Q2,Scope 3,CH4,1233.9262,No
+F033,Jsw Energy,2023 Q2,Scope 1,CO2,2802.78,No
+F105,Jsw Energy,2022 Q1,Scope 1,CO2,2330.03,No
+F165,Adani Green,2022 Q1,Scope 2,N2O,4895.27,No
+F175,Tata Steel,2022 Q2,Scope 1,N2O,804.58,No
+F024,Adani Green,2022 Q2,Scope 3,CH4,5233.9546,No
+F200,L&T,2023 Q2,Scope 1,CH4,2997.09,No
+F157,Jsw Energy,2022 Q1,Scope 3,CH4,964.9214,No
+F011,Adani Green,2022 Q1,Scope 3,N2O,3145.31,No
+F120,Adani Green,2022 Q2,Scope 2,CO2,2135.28,No
+F143,L&T,2023 Q1,Scope 3,N2O,4359.5106,No
+F127,Tata Steel,2023 Q2,Scope 1,CO2,4094.25,No
+F043,Jsw Energy,2023 Q1,Scope 3,CO2,1200.623,No
+F117,Reliance Industries,2023 Q2,Scope 3,N2O,2599.9448,No
+F187,Reliance Industries,2023 Q1,Scope 1,CH4,3672.52,No
+F029,Adani Green,2023 Q2,Scope 2,N2O,787.76,No
+F195,L&T,2022 Q1,Scope 1,CH4,4418.3,No
+F164,Jsw Energy,2023 Q2,Scope 2,N2O,1918.45,No
+F094,Tata Steel,2023 Q2,Scope 2,CH4,4411.78,No
+F154,Jsw Energy,2023 Q2,Scope 3,CH4,755.8399,No
+F109,Jsw Energy,2022 Q2,Scope 3,CH4,868.5117,No
+F079,Reliance Industries,2023 Q1,Scope 1,CH4,3296.99,No
+F108,Tata Steel,2023 Q1,Scope 2,N2O,4240.42,No
+F020,Reliance Industries,2022 Q2,Scope 3,CH4,1409.8214,No
+F174,Tata Steel,2023 Q1,Scope 1,CH4,3970.76,No
+F031,Tata Steel,2022 Q1,Scope 2,CO2,549.77,No
+F045,Jsw Energy,2022 Q2,Scope 1,CH4,104.29,No
+F189,Jsw Energy,2022 Q2,Scope 1,CH4,1468.86,No
+F177,Tata Steel,2022 Q2,Scope 1,CO2,2876.13,No
+F195,L&T,2022 Q2,Scope 2,N2O,1825.34,No
+F148,L&T,2023 Q2,Scope 1,CO2,3246.39,No
+F060,Adani Green,2022 Q1,Scope 2,CH4,1846.98,No
+F047,Jsw Energy,2023 Q2,Scope 1,N2O,4193.53,No
+F081,L&T,2023 Q1,Scope 2,CH4,1402.57,No
+F126,Reliance Industries,2022 Q1,Scope 3,CH4,2860.1476,No
+F103,Adani Green,2022 Q2,Scope 2,CO2,1019.13,No
+F075,Tata Steel,2022 Q1,Scope 2,CO2,3886.16,No
+F053,Jsw Energy,2023 Q1,Scope 3,CO2,2913.9287,No
+F194,Tata Steel,2022 Q1,Scope 1,CH4,4929.24,No
+F121,Tata Steel,2022 Q2,Scope 1,CH4,197.22,No
+F117,Reliance Industries,2023 Q1,Scope 2,CH4,3407.21,No
+F164,Jsw Energy,2022 Q2,Scope 2,N2O,538.5,No
+F046,Adani Green,2022 Q2,Scope 2,CH4,4976.37,No
+F167,Reliance Industries,2022 Q1,Scope 1,N2O,1334.36,No
+F185,Jsw Energy,2023 Q2,Scope 1,CH4,2641.31,No
+F029,Adani Green,2022 Q2,Scope 3,N2O,3466.6277,No
+F192,Adani Green,2022 Q1,Scope 1,N2O,4682.56,No
+F067,L&T,2022 Q2,Scope 1,N2O,272.64,No
+F128,Reliance Industries,2023 Q2,Scope 1,N2O,4584.96,No
+F004,Jsw Energy,2023 Q2,Scope 1,CO2,3965.06,No
+F097,L&T,2022 Q1,Scope 3,N2O,1855.0037,No
+F026,Reliance Industries,2023 Q1,Scope 3,CH4,1170.4914,No
+F037,Tata Steel,2023 Q2,Scope 1,CH4,2881.56,No
+F086,Adani Green,2023 Q1,Scope 1,N2O,4820.21,No
+F174,Tata Steel,2022 Q1,Scope 1,CO2,2635.84,No
+F153,Tata Steel,2023 Q1,Scope 2,CO2,3933.16,No
+F101,Tata Steel,2023 Q2,Scope 1,N2O,425.14,No
+F070,Reliance Industries,2023 Q2,Scope 2,N2O,3494.61,No
+F160,Adani Green,2023 Q2,Scope 3,CH4,3199.7602,No
+F043,Jsw Energy,2022 Q1,Scope 1,CO2,290.09,No
+F109,Jsw Energy,2023 Q2,Scope 2,CO2,1123.56,No
+F080,Tata Steel,2022 Q1,Scope 2,CH4,1109.47,No
+F002,Adani Green,2023 Q1,Scope 3,CH4,1044.9244,No
+F198,Tata Steel,2022 Q2,Scope 3,CO2,5387.6739,No
+F125,L&T,2022 Q2,Scope 3,CH4,3244.1674,No
+F053,Jsw Energy,2023 Q1,Scope 1,CO2,3954.01,No
+F168,Reliance Industries,2023 Q1,Scope 1,N2O,1475.99,No
+F092,Adani Green,2023 Q1,Scope 3,N2O,4669.9769,No
+F114,L&T,2022 Q2,Scope 3,CO2,502.5732,No
+F109,Jsw Energy,2022 Q1,Scope 1,CH4,2663.13,No
+F075,Tata Steel,2022 Q2,Scope 1,CO2,3327.22,No
+F123,L&T,2023 Q2,Scope 1,CH4,441.04,No
+F104,Adani Green,2022 Q2,Scope 3,CH4,1466.4727,No
+F027,Adani Green,2023 Q1,Scope 3,CH4,5076.0106,No
+F005,Adani Green,2023 Q1,Scope 2,CH4,3971.86,No
+F003,Tata Steel,2023 Q2,Scope 2,CH4,3120.88,No
+F153,Tata Steel,2023 Q2,Scope 1,CO2,3407.69,No
+F054,Tata Steel,2022 Q1,Scope 3,CH4,4867.8939,No
+F012,Tata Steel,2022 Q2,Scope 1,CO2,1080.84,No
+F170,Reliance Industries,2023 Q2,Scope 3,N2O,1196.4168,No
+F111,Tata Steel,2023 Q1,Scope 1,CO2,2634.83,No
+F098,Adani Green,2023 Q2,Scope 3,CH4,3396.5837,No
+F110,Adani Green,2022 Q2,Scope 1,CO2,4067.32,No
+F043,Jsw Energy,2022 Q2,Scope 3,CH4,1241.4129,No
+F175,Tata Steel,2023 Q2,Scope 1,N2O,3737.92,No
+F181,Tata Steel,2023 Q1,Scope 3,N2O,443.2656,No
+F004,Jsw Energy,2022 Q2,Scope 1,N2O,179.8,No
+F039,Reliance Industries,2022 Q2,Scope 3,CO2,253.0794,No
+F074,L&T,2022 Q1,Scope 2,N2O,584.44,No
+F063,Adani Green,2022 Q1,Scope 3,CH4,858.2715,No
+F104,Adani Green,2022 Q2,Scope 2,CO2,220.63,No
+F019,Jsw Energy,2022 Q2,Scope 1,N2O,4665.38,No
+F189,Jsw Energy,2022 Q2,Scope 1,CO2,3677.45,No
+F107,Reliance Industries,2022 Q2,Scope 2,CH4,3434.59,No
+F166,Tata Steel,2023 Q1,Scope 3,N2O,1175.5931,No
+F094,Tata Steel,2023 Q1,Scope 3,CO2,5155.3973,No
+F169,Reliance Industries,2023 Q1,Scope 1,CH4,4426.07,No
+F090,Reliance Industries,2022 Q1,Scope 1,N2O,4487.54,No
+F040,Jsw Energy,2022 Q2,Scope 2,CO2,844.07,No
+F132,Adani Green,2023 Q1,Scope 2,N2O,808.96,No
+F042,L&T,2023 Q2,Scope 3,CH4,4896.9167,No
+F149,L&T,2022 Q1,Scope 3,CH4,191.17,No
+F062,Reliance Industries,2023 Q1,Scope 1,CH4,1697.2,No
+F182,Tata Steel,2022 Q1,Scope 3,N2O,4105.0089,No
+F126,Reliance Industries,2022 Q2,Scope 2,CH4,4095.94,No
+F127,Tata Steel,2022 Q1,Scope 1,N2O,1094.42,No
+F112,Adani Green,2023 Q1,Scope 3,CO2,2501.47,No
+F114,L&T,2023 Q1,Scope 1,N2O,1137.71,No
+F152,Adani Green,2023 Q2,Scope 2,CO2,2685.34,No
+F066,Adani Green,2022 Q2,Scope 1,N2O,3561.14,No
+F173,L&T,2023 Q2,Scope 3,CH4,135.5664,No
+F129,L&T,2022 Q1,Scope 2,CO2,651.62,No
+F003,Tata Steel,2023 Q1,Scope 3,CH4,243.88,No
+F013,Reliance Industries,2023 Q1,Scope 2,N2O,2204.12,No
+F186,Adani Green,2023 Q1,Scope 3,N2O,4031.3118,No
+F017,Reliance Industries,2022 Q1,Scope 1,N2O,1311.25,No
+F036,Tata Steel,2022 Q1,Scope 3,CH4,496.0045,No
+F070,Reliance Industries,2022 Q1,Scope 1,CH4,3182.6,No
+F200,L&T,2023 Q2,Scope 1,CO2,1935.31,No
+F054,Tata Steel,2023 Q1,Scope 3,CH4,4354.0756,No
+F006,Adani Green,2022 Q2,Scope 2,CO2,4545.69,No
+F007,Adani Green,2022 Q2,Scope 2,CH4,1019.91,No
+F117,Reliance Industries,2023 Q1,Scope 3,N2O,3313.0769,No
+F115,Tata Steel,2023 Q1,Scope 2,N2O,2988.27,No
+F118,Jsw Energy,2023 Q1,Scope 3,N2O,4688.4713,No
+F197,Reliance Industries,2023 Q1,Scope 3,N2O,4159.3607,No
+F118,Jsw Energy,2022 Q2,Scope 1,N2O,3142.22,No
+F147,L&T,2023 Q1,Scope 3,CO2,4654.5582,No
+F197,Reliance Industries,2022 Q2,Scope 3,CO2,348.7339,No
+F041,L&T,2023 Q2,Scope 1,CO2,4243.12,No
+F175,Tata Steel,2022 Q1,Scope 1,N2O,4673.26,No
+F063,Adani Green,2022 Q1,Scope 2,CH4,1127.24,No
+F035,Adani Green,2023 Q1,Scope 3,N2O,884.52,No
+F167,Reliance Industries,2023 Q1,Scope 3,N2O,692.6911,No
+F095,Reliance Industries,2022 Q1,Scope 3,CO2,1097.7747,No
+F005,Adani Green,2022 Q1,Scope 3,CO2,3601.7124,No
+F125,L&T,2023 Q2,Scope 1,CO2,4661.5,No
+F153,Tata Steel,2023 Q2,Scope 1,CH4,4163.95,No
+F166,Tata Steel,2023 Q2,Scope 1,CO2,2018.59,No
+F145,Adani Green,2022 Q2,Scope 2,CH4,1373.09,No
+F056,Adani Green,2022 Q2,Scope 1,CH4,1419.59,No
+F002,Adani Green,2023 Q1,Scope 1,N2O,3946.93,No
+F137,Jsw Energy,2023 Q1,Scope 1,N2O,685.73,No
+F184,Jsw Energy,2022 Q1,Scope 1,CH4,4879.25,No
+F077,Adani Green,2022 Q1,Scope 3,CH4,3667.49,No
+F171,Adani Green,2022 Q2,Scope 2,CO2,1085.32,No
+F004,Jsw Energy,2023 Q2,Scope 1,CH4,4510.42,No
+F196,Adani Green,2023 Q1,Scope 1,N2O,499.33,No
+F096,Jsw Energy,2022 Q1,Scope 3,CO2,1951.9222,No
+F071,Adani Green,2023 Q2,Scope 3,CO2,1473.5948,No
+F078,Jsw Energy,2022 Q2,Scope 1,CO2,3545.05,No
+F099,Tata Steel,2023 Q1,Scope 2,N2O,84.78,No
+F031,Tata Steel,2023 Q2,Scope 2,CH4,1941.65,No
+F136,L&T,2023 Q1,Scope 1,CH4,2646.36,No
+F108,Tata Steel,2023 Q2,Scope 3,N2O,1257.0845,No
+F008,Tata Steel,2022 Q2,Scope 1,CH4,4445.15,No
+F196,Adani Green,2022 Q2,Scope 2,CO2,3717.99,No
+F029,Adani Green,2023 Q2,Scope 3,N2O,4588.6389,No
+F157,Jsw Energy,2022 Q1,Scope 3,CH4,1806.8769,No
+F059,Reliance Industries,2022 Q1,Scope 3,CO2,1893.4459,No
+F193,L&T,2023 Q2,Scope 2,CO2,2906.15,No
+F117,Reliance Industries,2023 Q2,Scope 3,CH4,4352.6233,No
+F166,Tata Steel,2022 Q1,Scope 1,CH4,750.01,No
+F191,Jsw Energy,2022 Q2,Scope 2,CO2,1435.13,No
+F098,Adani Green,2022 Q2,Scope 1,N2O,3346.28,No
+F162,Tata Steel,2022 Q1,Scope 3,CO2,3975.6862,No
+F068,Jsw Energy,2023 Q2,Scope 1,N2O,3453.13,No
+F149,L&T,2023 Q1,Scope 3,N2O,626.03,No
+F028,Adani Green,2022 Q2,Scope 1,CO2,3255.93,No
+F179,L&T,2022 Q1,Scope 2,N2O,4437.74,No
+F103,Adani Green,2023 Q2,Scope 2,CH4,1531.0,No
+F155,Reliance Industries,2022 Q1,Scope 2,N2O,3938.07,No
+F009,Jsw Energy,2022 Q2,Scope 1,CH4,1999.93,No
+F165,Adani Green,2022 Q2,Scope 3,CO2,379.8508,No
+F173,L&T,2022 Q2,Scope 3,N2O,4069.5414,No
+F170,Reliance Industries,2023 Q1,Scope 2,CO2,2664.95,No
+F038,Adani Green,2023 Q1,Scope 3,CO2,1975.28,No
+F013,Reliance Industries,2022 Q1,Scope 1,N2O,4697.13,No
+F160,Adani Green,2022 Q2,Scope 1,CO2,2932.94,No
+F076,Reliance Industries,2022 Q1,Scope 2,CO2,1869.13,No
+F193,L&T,2022 Q1,Scope 1,CO2,3433.46,No
+F119,Reliance Industries,2023 Q2,Scope 1,CH4,3234.84,No
+F104,Adani Green,2022 Q1,Scope 1,N2O,2947.36,No
+F160,Adani Green,2023 Q1,Scope 3,N2O,4189.4613,No
+F104,Adani Green,2022 Q1,Scope 1,CO2,4346.51,No
+F148,L&T,2023 Q1,Scope 1,CO2,1356.94,No
+F051,Adani Green,2022 Q1,Scope 2,CH4,50.06,No
+F067,L&T,2022 Q2,Scope 2,CO2,3795.55,No
+F074,L&T,2023 Q1,Scope 3,CH4,4134.2098,No
+F165,Adani Green,2023 Q1,Scope 3,N2O,2597.3551,No
+F179,L&T,2022 Q1,Scope 1,N2O,2151.91,No
+F113,Tata Steel,2023 Q1,Scope 1,CH4,3338.56,No
+F028,Adani Green,2023 Q2,Scope 3,CO2,284.86,No
+F095,Reliance Industries,2023 Q1,Scope 1,CO2,4418.62,No
+F020,Reliance Industries,2023 Q2,Scope 1,N2O,1452.21,No
+F194,Tata Steel,2023 Q2,Scope 2,CO2,1001.43,No
+F028,Adani Green,2022 Q1,Scope 2,CO2,3280.78,No
+F040,Jsw Energy,2022 Q1,Scope 1,N2O,2429.6,No
+F054,Tata Steel,2022 Q2,Scope 3,CH4,4025.9912,No
+F040,Jsw Energy,2022 Q2,Scope 1,CO2,1880.25,No
+F183,Tata Steel,2023 Q2,Scope 2,CO2,3107.51,No
+F018,Adani Green,2023 Q2,Scope 3,CO2,1430.9375,No
+F102,L&T,2023 Q1,Scope 2,CO2,4735.94,No
+F154,Jsw Energy,2022 Q1,Scope 2,CO2,419.21,No
+F094,Tata Steel,2023 Q1,Scope 3,N2O,3952.7881,No
+F001,L&T,2022 Q1,Scope 2,CH4,2905.28,No
+F108,Tata Steel,2022 Q2,Scope 2,N2O,2595.02,No
+F071,Adani Green,2023 Q1,Scope 3,CO2,4395.4888,No
+F022,Adani Green,2023 Q2,Scope 1,N2O,969.03,No
+F119,Reliance Industries,2023 Q1,Scope 1,CO2,4736.7,No
+F190,Jsw Energy,2022 Q1,Scope 3,CO2,3116.27,No
+F171,Adani Green,2023 Q1,Scope 2,CO2,3048.92,No
+F084,Tata Steel,2023 Q1,Scope 3,CO2,4792.2008,No
+F117,Reliance Industries,2023 Q1,Scope 1,CO2,1851.08,No
+F039,Reliance Industries,2023 Q1,Scope 1,CH4,331.53,No
+F138,Jsw Energy,2022 Q2,Scope 2,N2O,2756.07,No
+F114,L&T,2022 Q2,Scope 3,CO2,1185.1447,No
+F104,Adani Green,2022 Q2,Scope 1,CO2,770.82,No
+F045,Jsw Energy,2022 Q1,Scope 1,N2O,1735.38,No
+F105,Jsw Energy,2022 Q1,Scope 3,CO2,2191.3122,No
+F189,Jsw Energy,2022 Q2,Scope 2,CO2,759.32,No
+F146,Reliance Industries,2023 Q2,Scope 1,CO2,1954.05,No
+F006,Adani Green,2023 Q1,Scope 3,CO2,4153.0,No
+F019,Jsw Energy,2023 Q2,Scope 3,CO2,3571.7575,No
+F147,L&T,2022 Q1,Scope 2,N2O,3705.85,No
+F069,Adani Green,2022 Q2,Scope 1,CO2,4393.54,No
+F089,Adani Green,2022 Q1,Scope 3,N2O,1303.2391,No
+F060,Adani Green,2022 Q1,Scope 2,CO2,1709.14,No
+F006,Adani Green,2023 Q1,Scope 3,CO2,4816.54,No
+F132,Adani Green,2023 Q2,Scope 3,N2O,4237.9135,No
+F013,Reliance Industries,2023 Q1,Scope 1,N2O,2911.32,No
+F133,Reliance Industries,2022 Q2,Scope 1,CH4,1512.18,No
+F158,Tata Steel,2023 Q1,Scope 2,CO2,2308.83,No
+F006,Adani Green,2022 Q1,Scope 2,CO2,4743.85,No
+F028,Adani Green,2023 Q2,Scope 3,N2O,3863.8,No
+F149,L&T,2023 Q1,Scope 1,CH4,1928.39,No
+F128,Reliance Industries,2023 Q2,Scope 2,N2O,2001.66,No
+F034,Adani Green,2023 Q2,Scope 1,CH4,1031.08,No
+F200,L&T,2023 Q1,Scope 1,CH4,4637.72,No
+F153,Tata Steel,2023 Q1,Scope 1,CO2,2119.1,No
+F185,Jsw Energy,2022 Q1,Scope 3,CH4,672.5898,No
+F092,Adani Green,2022 Q1,Scope 3,CO2,1187.1661,No
+F126,Reliance Industries,2022 Q2,Scope 1,CO2,3253.86,No
+F079,Reliance Industries,2023 Q2,Scope 1,CH4,276.16,No
+F087,Adani Green,2023 Q1,Scope 3,CO2,1988.3138,No
+F190,Jsw Energy,2022 Q2,Scope 2,CH4,1459.49,No
+F152,Adani Green,2022 Q2,Scope 1,CO2,4054.68,No
+F002,Adani Green,2022 Q2,Scope 1,N2O,270.88,No
+F101,Tata Steel,2022 Q1,Scope 1,CH4,1234.77,No
+F088,Jsw Energy,2023 Q2,Scope 1,CO2,4028.89,No
+F108,Tata Steel,2023 Q2,Scope 3,CO2,4303.8535,No
+F122,Adani Green,2023 Q1,Scope 1,N2O,2941.43,No
+F130,Tata Steel,2022 Q1,Scope 1,N2O,125.18,No
+F171,Adani Green,2023 Q1,Scope 1,CO2,2302.58,No
+F154,Jsw Energy,2023 Q2,Scope 1,CH4,365.22,No
+F167,Reliance Industries,2023 Q1,Scope 2,N2O,93.15,No
+F001,L&T,2022 Q2,Scope 2,CO2,807.86,No
+F058,L&T,2022 Q1,Scope 2,N2O,3779.13,No
+F080,Tata Steel,2022 Q2,Scope 3,CH4,4998.3865,No
+F107,Reliance Industries,2023 Q1,Scope 1,N2O,2268.11,No
+F003,Tata Steel,2022 Q1,Scope 1,N2O,1247.71,No
+F114,L&T,2023 Q1,Scope 2,N2O,2941.25,No
+F032,L&T,2022 Q2,Scope 2,N2O,1210.07,No
+F153,Tata Steel,2023 Q1,Scope 2,CO2,4451.0,No
+F090,Reliance Industries,2023 Q2,Scope 2,N2O,867.35,No
+F063,Adani Green,2023 Q2,Scope 1,CH4,3856.1,No
+F025,Adani Green,2023 Q1,Scope 2,CH4,1963.47,No
+F106,Tata Steel,2022 Q2,Scope 1,CH4,4776.8,No
+F171,Adani Green,2023 Q2,Scope 1,N2O,1736.71,No
+F181,Tata Steel,2022 Q1,Scope 1,CO2,4367.48,No
+F083,Reliance Industries,2023 Q2,Scope 2,CO2,700.15,No
+F149,L&T,2023 Q1,Scope 2,CO2,4667.14,No
+F118,Jsw Energy,2023 Q1,Scope 3,N2O,2262.4268,No
+F096,Jsw Energy,2022 Q2,Scope 2,CH4,4898.15,No
+F094,Tata Steel,2022 Q2,Scope 1,CO2,2735.09,No
+F137,Jsw Energy,2022 Q2,Scope 2,CO2,129.43,No
+F058,L&T,2023 Q1,Scope 2,CO2,556.38,No
+F190,Jsw Energy,2023 Q2,Scope 1,CH4,358.08,No
+F193,L&T,2023 Q1,Scope 3,N2O,5236.8359,No
+F049,Jsw Energy,2023 Q1,Scope 2,N2O,2820.63,No
+F194,Tata Steel,2023 Q1,Scope 3,CO2,1652.6302,No
+F080,Tata Steel,2023 Q1,Scope 3,CO2,4298.4759,No
+F102,L&T,2023 Q1,Scope 1,CH4,2188.52,No
+F009,Jsw Energy,2022 Q1,Scope 2,CO2,228.37,No
+F102,L&T,2023 Q1,Scope 3,CH4,3425.06,No
+F156,Reliance Industries,2023 Q1,Scope 2,N2O,3780.56,No
+F152,Adani Green,2022 Q2,Scope 2,N2O,1026.45,No
+F086,Adani Green,2022 Q1,Scope 3,CO2,1973.1371,No
+F058,L&T,2022 Q2,Scope 3,CO2,3828.4128,No
+F032,L&T,2023 Q2,Scope 2,CH4,3883.26,No
+F186,Adani Green,2022 Q1,Scope 3,CO2,4934.9743,No
+F090,Reliance Industries,2022 Q2,Scope 1,N2O,336.58,No
+F052,Tata Steel,2022 Q2,Scope 2,CH4,3817.85,No
+F027,Adani Green,2022 Q2,Scope 2,CO2,1089.25,No
+F097,L&T,2023 Q2,Scope 3,CH4,316.0783,No
+F173,L&T,2022 Q2,Scope 1,CO2,2112.32,No
+F093,Reliance Industries,2023 Q2,Scope 3,CH4,892.44,No
+F097,L&T,2022 Q2,Scope 1,CH4,1569.2,No
+F050,Jsw Energy,2023 Q1,Scope 3,CO2,1407.4467,No
+F196,Adani Green,2022 Q2,Scope 3,N2O,4401.5937,No
+F148,L&T,2023 Q1,Scope 2,CH4,4331.44,No
+F050,Jsw Energy,2023 Q2,Scope 1,CO2,191.28,No
+F115,Tata Steel,2022 Q1,Scope 1,CH4,3002.77,No
+F017,Reliance Industries,2022 Q1,Scope 2,N2O,2511.59,No
+F048,Jsw Energy,2023 Q2,Scope 3,CO2,2282.1802,No
+F119,Reliance Industries,2022 Q1,Scope 2,CH4,4726.11,No
+F054,Tata Steel,2022 Q2,Scope 1,N2O,252.05,No
+F027,Adani Green,2023 Q2,Scope 2,N2O,3693.42,No
+F160,Adani Green,2022 Q2,Scope 3,CH4,2670.5294,No
+F102,L&T,2022 Q2,Scope 2,CO2,1186.4,No
+F175,Tata Steel,2023 Q2,Scope 3,CH4,1201.0996,No
+F058,L&T,2022 Q1,Scope 3,CH4,1093.3918,No
+F188,Tata Steel,2022 Q2,Scope 1,N2O,4636.55,No
+F132,Adani Green,2022 Q1,Scope 3,CO2,1840.5347,No
+F188,Tata Steel,2023 Q2,Scope 1,CO2,1036.07,No
+F147,L&T,2022 Q2,Scope 3,CO2,390.7814,No
+F154,Jsw Energy,2023 Q2,Scope 2,CH4,4126.71,No
+F036,Tata Steel,2023 Q2,Scope 2,CH4,4171.81,No
+F164,Jsw Energy,2022 Q1,Scope 1,N2O,3571.47,No
+F195,L&T,2023 Q1,Scope 2,CH4,1961.65,No
+F085,Adani Green,2023 Q1,Scope 1,CH4,3905.64,No
+F122,Adani Green,2022 Q2,Scope 3,CO2,2192.9713,No
+F129,L&T,2023 Q2,Scope 1,CO2,369.5,No
+F097,L&T,2022 Q2,Scope 1,CO2,2277.18,No
+F109,Jsw Energy,2022 Q1,Scope 1,CH4,4278.89,No
+F028,Adani Green,2022 Q2,Scope 1,CO2,3665.62,No
+F130,Tata Steel,2022 Q2,Scope 3,CO2,4127.2296,No
+F173,L&T,2023 Q2,Scope 1,N2O,1251.29,No
+F146,Reliance Industries,2022 Q2,Scope 2,CO2,3935.94,No
+F060,Adani Green,2023 Q1,Scope 2,CO2,1012.81,No
+F117,Reliance Industries,2023 Q2,Scope 2,CO2,817.03,No
+F001,L&T,2022 Q2,Scope 2,CO2,4733.58,No
+F131,Adani Green,2023 Q2,Scope 1,CH4,4851.63,No
+F122,Adani Green,2023 Q1,Scope 2,CH4,2889.59,No
+F007,Adani Green,2023 Q1,Scope 1,CH4,2545.79,No
+F080,Tata Steel,2023 Q2,Scope 3,N2O,3857.3744,No
+F025,Adani Green,2022 Q1,Scope 3,CH4,1399.188,No
+F099,Tata Steel,2022 Q1,Scope 2,CH4,1563.76,No
+F119,Reliance Industries,2022 Q2,Scope 1,CH4,2518.31,No
+F019,Jsw Energy,2023 Q2,Scope 1,CO2,4134.78,No
+F112,Adani Green,2022 Q1,Scope 2,CH4,2532.84,No
+F064,L&T,2022 Q1,Scope 1,CH4,2192.78,No
+F055,Reliance Industries,2023 Q2,Scope 2,N2O,2433.07,No
+F076,Reliance Industries,2022 Q1,Scope 2,CH4,3760.84,No
+F077,Adani Green,2022 Q1,Scope 3,CH4,3726.94,No
+F110,Adani Green,2022 Q1,Scope 1,CH4,3670.96,No
+F078,Jsw Energy,2022 Q2,Scope 3,CH4,1821.13,No
+F177,Tata Steel,2023 Q2,Scope 2,CH4,231.16,No
+F010,Jsw Energy,2022 Q2,Scope 3,CO2,1503.887,No
+F056,Adani Green,2023 Q2,Scope 2,N2O,1448.62,No
+F027,Adani Green,2022 Q2,Scope 1,CH4,3712.48,No
+F073,Tata Steel,2023 Q2,Scope 2,CH4,4843.3,No
+F062,Reliance Industries,2023 Q2,Scope 1,CO2,2038.87,No
+F119,Reliance Industries,2022 Q1,Scope 2,N2O,501.53,No
+F009,Jsw Energy,2023 Q1,Scope 1,N2O,2494.41,No
+F039,Reliance Industries,2022 Q1,Scope 1,N2O,3410.79,No
+F161,Reliance Industries,2022 Q1,Scope 3,CO2,4596.0482,No
+F038,Adani Green,2022 Q1,Scope 2,N2O,2175.48,No
+F122,Adani Green,2022 Q1,Scope 2,CH4,4410.98,No
+F190,Jsw Energy,2022 Q1,Scope 3,CO2,4785.23,No
+F030,Jsw Energy,2023 Q2,Scope 2,CO2,3604.55,No
+F041,L&T,2022 Q2,Scope 2,CO2,3470.96,No
+F131,Adani Green,2023 Q2,Scope 1,CH4,3506.46,No
+F004,Jsw Energy,2022 Q2,Scope 3,N2O,2058.1298,No
+F048,Jsw Energy,2023 Q1,Scope 2,N2O,1643.92,No
+F188,Tata Steel,2023 Q2,Scope 2,CH4,2080.03,No
+F105,Jsw Energy,2022 Q1,Scope 1,N2O,2465.45,No
+F126,Reliance Industries,2022 Q2,Scope 1,N2O,2931.16,No
+F199,Jsw Energy,2023 Q2,Scope 2,N2O,1925.79,No
+F135,Tata Steel,2022 Q1,Scope 1,N2O,1331.9,No
+F106,Tata Steel,2022 Q1,Scope 3,CO2,3932.234,No
+F106,Tata Steel,2022 Q2,Scope 2,N2O,1414.52,No
+F057,L&T,2022 Q2,Scope 3,N2O,3472.6852,No
+F011,Adani Green,2023 Q1,Scope 2,N2O,1357.85,No
+F085,Adani Green,2022 Q1,Scope 2,CH4,347.5,No
+F165,Adani Green,2022 Q2,Scope 3,N2O,4534.2319,No
+F122,Adani Green,2023 Q1,Scope 1,CH4,3600.52,No
+F130,Tata Steel,2023 Q1,Scope 2,N2O,4875.1,No
+F144,Reliance Industries,2022 Q1,Scope 3,CH4,1708.84,No
+F183,Tata Steel,2023 Q1,Scope 2,CH4,126.6,No
+F077,Adani Green,2023 Q2,Scope 2,N2O,1749.03,No
+F024,Adani Green,2022 Q1,Scope 3,N2O,2617.5188,No
+F191,Jsw Energy,2022 Q2,Scope 3,CH4,351.56,No
+F029,Adani Green,2023 Q1,Scope 2,CH4,1743.41,No
+F097,L&T,2023 Q1,Scope 3,N2O,4857.8724,No
+F066,Adani Green,2023 Q1,Scope 1,N2O,2816.93,No
+F121,Tata Steel,2022 Q2,Scope 1,CO2,2641.98,No
+F014,Reliance Industries,2023 Q1,Scope 1,CO2,2924.31,No
+F131,Adani Green,2022 Q2,Scope 3,CO2,2885.0904,No
+F013,Reliance Industries,2023 Q1,Scope 2,N2O,4563.34,No
+F024,Adani Green,2022 Q1,Scope 1,CO2,3703.75,No
+F192,Adani Green,2022 Q2,Scope 2,CH4,3328.72,No
+F151,Reliance Industries,2023 Q2,Scope 2,CH4,4650.14,No
+F106,Tata Steel,2022 Q1,Scope 3,CH4,1410.9017,No
+F016,Reliance Industries,2022 Q2,Scope 1,CH4,802.15,No
+F179,L&T,2023 Q1,Scope 1,CO2,3338.5,No
+F192,Adani Green,2023 Q2,Scope 2,N2O,1108.88,No
+F136,L&T,2022 Q2,Scope 1,N2O,350.22,No
+F110,Adani Green,2022 Q2,Scope 1,CO2,1884.68,No
+F055,Reliance Industries,2022 Q2,Scope 3,CH4,2634.7603,No
+F004,Jsw Energy,2022 Q2,Scope 1,CH4,1677.52,No
+F059,Reliance Industries,2022 Q1,Scope 2,CH4,2395.01,No
+F118,Jsw Energy,2023 Q2,Scope 3,CO2,2603.0124,No
+F027,Adani Green,2022 Q2,Scope 3,CO2,1656.4435,No
+F061,L&T,2023 Q2,Scope 3,CH4,274.59,No
+F159,Jsw Energy,2022 Q1,Scope 3,CH4,1298.2818,No
+F070,Reliance Industries,2023 Q1,Scope 2,CO2,814.66,No
+F023,L&T,2023 Q2,Scope 1,CH4,4037.11,No
+F125,L&T,2023 Q2,Scope 3,CO2,1604.8106,No
+F182,Tata Steel,2023 Q2,Scope 1,N2O,2667.56,No
+F173,L&T,2022 Q2,Scope 1,CH4,1194.52,No
+F147,L&T,2022 Q1,Scope 2,CH4,4059.51,No
+F110,Adani Green,2023 Q2,Scope 1,CO2,1051.4,No
+F097,L&T,2022 Q2,Scope 3,N2O,1810.5441,No
+F106,Tata Steel,2023 Q1,Scope 1,N2O,2916.42,No
+F087,Adani Green,2023 Q1,Scope 2,CO2,3852.61,No
+F113,Tata Steel,2023 Q1,Scope 2,CH4,4795.14,No
+F147,L&T,2023 Q2,Scope 2,CO2,1445.25,No
+F071,Adani Green,2022 Q2,Scope 2,CO2,869.01,No
+F058,L&T,2023 Q2,Scope 2,CO2,4077.29,No
+F092,Adani Green,2022 Q1,Scope 1,CH4,2770.18,No
+F009,Jsw Energy,2023 Q1,Scope 3,CH4,2004.6969,No
+F147,L&T,2023 Q1,Scope 2,CO2,4717.47,No
+F099,Tata Steel,2022 Q2,Scope 3,CH4,1392.4759,No
+F169,Reliance Industries,2023 Q2,Scope 3,CO2,2563.3258,No
+F125,L&T,2023 Q1,Scope 3,CO2,503.8561,No
+F113,Tata Steel,2022 Q1,Scope 2,N2O,897.2,No
+F192,Adani Green,2023 Q2,Scope 1,CO2,2988.56,No
+F135,Tata Steel,2023 Q1,Scope 3,CO2,1067.2256,No
+F014,Reliance Industries,2023 Q1,Scope 3,CH4,2128.884,No
+F083,Reliance Industries,2022 Q2,Scope 2,CO2,569.36,No
+F010,Jsw Energy,2022 Q1,Scope 1,CO2,2763.46,No
+F026,Reliance Industries,2022 Q2,Scope 3,CH4,889.0133,No
+F114,L&T,2023 Q1,Scope 3,N2O,565.2037,No
+F159,Jsw Energy,2023 Q1,Scope 2,CO2,4475.27,No
+F147,L&T,2022 Q2,Scope 1,CH4,3884.64,No
+F159,Jsw Energy,2023 Q1,Scope 3,CO2,1548.1468,No
+F119,Reliance Industries,2023 Q2,Scope 1,CH4,1310.02,No
+F080,Tata Steel,2022 Q2,Scope 1,N2O,1833.43,No
+F075,Tata Steel,2022 Q2,Scope 1,CO2,1039.84,No
+F064,L&T,2022 Q2,Scope 2,CO2,3297.47,No
+F012,Tata Steel,2022 Q2,Scope 1,CH4,3091.2,No
+F035,Adani Green,2023 Q1,Scope 2,CO2,301.86,No
+F112,Adani Green,2023 Q2,Scope 1,N2O,4171.41,No
+F179,L&T,2023 Q1,Scope 1,CH4,4337.95,No
+F171,Adani Green,2023 Q1,Scope 3,N2O,3830.1001,No
+F022,Adani Green,2022 Q1,Scope 2,N2O,3808.17,No
+F090,Reliance Industries,2022 Q1,Scope 1,CH4,3167.4,No
+F139,Jsw Energy,2022 Q2,Scope 3,CO2,742.1098,No
+F043,Jsw Energy,2023 Q1,Scope 1,CO2,4632.64,No
+F158,Tata Steel,2022 Q2,Scope 1,CH4,1268.8,No
+F171,Adani Green,2022 Q1,Scope 2,CO2,3546.58,No
+F153,Tata Steel,2023 Q2,Scope 2,CH4,1609.6,No
+F040,Jsw Energy,2023 Q1,Scope 3,CO2,3630.7097,No
+F098,Adani Green,2023 Q1,Scope 1,CH4,999.48,No
+F014,Reliance Industries,2022 Q2,Scope 1,CO2,4553.04,No
+F028,Adani Green,2022 Q1,Scope 3,N2O,1345.95,No
+F161,Reliance Industries,2023 Q1,Scope 2,CH4,1432.5,No
+F190,Jsw Energy,2023 Q1,Scope 2,CH4,2537.5,No
+F020,Reliance Industries,2022 Q2,Scope 1,CH4,4832.05,No
+F011,Adani Green,2022 Q2,Scope 1,CH4,3935.58,No
+F040,Jsw Energy,2022 Q2,Scope 3,N2O,3258.2856,No
+F052,Tata Steel,2023 Q1,Scope 1,CO2,1512.13,No
+F060,Adani Green,2022 Q2,Scope 1,CH4,245.71,No
+F104,Adani Green,2022 Q1,Scope 1,N2O,3387.13,No
+F186,Adani Green,2022 Q1,Scope 2,CO2,1014.2,No
+F161,Reliance Industries,2022 Q2,Scope 2,CH4,269.87,No
+F157,Jsw Energy,2022 Q2,Scope 1,CH4,2444.67,No
+F087,Adani Green,2023 Q2,Scope 1,CH4,1734.64,No
+F086,Adani Green,2023 Q1,Scope 1,CH4,4948.85,No
+F146,Reliance Industries,2022 Q1,Scope 3,CO2,2924.7806,No
+F168,Reliance Industries,2022 Q1,Scope 1,CH4,1898.32,No
+F137,Jsw Energy,2022 Q2,Scope 2,CO2,1296.76,No
+F084,Tata Steel,2023 Q2,Scope 1,N2O,1414.37,No
+F199,Jsw Energy,2023 Q1,Scope 3,CO2,4136.0716,No
+F068,Jsw Energy,2023 Q2,Scope 2,N2O,3952.36,No
+F147,L&T,2023 Q1,Scope 1,CH4,4563.36,No
+F017,Reliance Industries,2023 Q2,Scope 3,CO2,2084.5674,No
+F165,Adani Green,2023 Q1,Scope 1,CH4,4081.51,No
+F029,Adani Green,2022 Q2,Scope 2,CO2,4483.63,No
+F135,Tata Steel,2023 Q1,Scope 1,N2O,3368.54,No
+F067,L&T,2022 Q2,Scope 1,N2O,82.35,No
+F170,Reliance Industries,2023 Q1,Scope 2,CO2,4175.62,No
+F174,Tata Steel,2023 Q1,Scope 1,CH4,1796.14,No
+F126,Reliance Industries,2023 Q1,Scope 2,CO2,3373.26,No
+F068,Jsw Energy,2022 Q2,Scope 1,N2O,3051.55,No
+F099,Tata Steel,2022 Q1,Scope 2,CO2,3770.37,No
+F171,Adani Green,2023 Q1,Scope 2,CO2,3887.64,No
+F200,L&T,2022 Q1,Scope 1,CH4,4523.25,No
+F024,Adani Green,2023 Q2,Scope 2,CO2,4229.33,No
+F105,Jsw Energy,2023 Q2,Scope 1,N2O,1909.18,No
+F142,Jsw Energy,2022 Q2,Scope 1,N2O,1689.24,No
+F037,Tata Steel,2022 Q2,Scope 1,N2O,1270.12,No
+F077,Adani Green,2022 Q1,Scope 3,CO2,1816.03,No
+F169,Reliance Industries,2023 Q1,Scope 1,CO2,1943.87,No
+F195,L&T,2022 Q1,Scope 2,CO2,2832.16,No
+F179,L&T,2022 Q2,Scope 2,CH4,4684.57,No
+F153,Tata Steel,2022 Q1,Scope 3,CH4,785.4166,No
+F050,Jsw Energy,2022 Q1,Scope 3,N2O,828.308,No
+F179,L&T,2022 Q1,Scope 1,CH4,4960.61,No
+F076,Reliance Industries,2022 Q2,Scope 2,CH4,4377.79,No
+F022,Adani Green,2022 Q2,Scope 3,CO2,2535.3006,No
+F063,Adani Green,2023 Q2,Scope 1,CH4,2251.6,No
+F004,Jsw Energy,2022 Q1,Scope 3,N2O,733.1251,No
+F189,Jsw Energy,2022 Q1,Scope 2,CO2,1054.48,No
+F175,Tata Steel,2022 Q2,Scope 1,CO2,4429.91,No
+F104,Adani Green,2023 Q2,Scope 3,N2O,3923.1479,No
+F062,Reliance Industries,2022 Q2,Scope 3,CH4,767.4622,No
+F173,L&T,2023 Q1,Scope 3,N2O,592.7226,No
+F017,Reliance Industries,2022 Q1,Scope 1,CH4,3539.99,No
+F024,Adani Green,2022 Q1,Scope 3,N2O,2579.1889,No
+F160,Adani Green,2023 Q1,Scope 2,N2O,4158.77,No
+F165,Adani Green,2022 Q2,Scope 3,CO2,687.4605,No
+F135,Tata Steel,2023 Q2,Scope 1,N2O,2922.31,No
+F137,Jsw Energy,2023 Q1,Scope 1,CO2,584.58,No
+F001,L&T,2022 Q2,Scope 1,CO2,87.51,No
+F183,Tata Steel,2023 Q2,Scope 1,N2O,3948.45,No
+F172,Adani Green,2023 Q1,Scope 3,CO2,3846.6289,No
+F141,L&T,2022 Q1,Scope 3,N2O,4673.8026,No
+F170,Reliance Industries,2023 Q1,Scope 2,N2O,4711.69,No
+F017,Reliance Industries,2022 Q2,Scope 3,CO2,2670.5213,No
+F166,Tata Steel,2023 Q1,Scope 3,CO2,919.4039,No
+F153,Tata Steel,2023 Q2,Scope 1,N2O,4514.75,No
+F161,Reliance Industries,2023 Q1,Scope 3,CO2,3766.6019,No
+F130,Tata Steel,2023 Q2,Scope 2,CH4,730.13,No
+F141,L&T,2022 Q2,Scope 1,N2O,2811.95,No
+F017,Reliance Industries,2022 Q2,Scope 3,CO2,5044.2036,No
+F190,Jsw Energy,2022 Q1,Scope 2,CO2,4074.33,No
+F117,Reliance Industries,2022 Q1,Scope 2,CO2,1048.08,No
+F038,Adani Green,2023 Q1,Scope 3,CO2,3290.44,No
+F006,Adani Green,2022 Q2,Scope 3,CH4,1966.43,No
+F078,Jsw Energy,2022 Q1,Scope 2,CO2,2842.86,No
+F003,Tata Steel,2022 Q2,Scope 1,CO2,2556.05,No
+F118,Jsw Energy,2023 Q2,Scope 2,CO2,3688.09,No
+F012,Tata Steel,2022 Q1,Scope 3,CH4,3222.3519,No
+F063,Adani Green,2023 Q2,Scope 1,N2O,475.84,No
+F150,Adani Green,2022 Q1,Scope 1,CO2,258.93,No
+F028,Adani Green,2022 Q1,Scope 3,N2O,850.45,No
+F171,Adani Green,2023 Q1,Scope 1,N2O,1887.87,No
+F082,Jsw Energy,2023 Q1,Scope 2,N2O,533.01,No
+F183,Tata Steel,2022 Q1,Scope 2,CH4,572.46,No
+F090,Reliance Industries,2022 Q2,Scope 2,N2O,4635.99,No
+F131,Adani Green,2023 Q1,Scope 1,N2O,4891.97,No
+F200,L&T,2023 Q2,Scope 2,CH4,1184.14,No
+F028,Adani Green,2022 Q2,Scope 1,CO2,802.03,No
+F042,L&T,2022 Q2,Scope 3,CH4,2408.4792,No
+F157,Jsw Energy,2022 Q2,Scope 3,CO2,3733.1565,No
+F010,Jsw Energy,2023 Q2,Scope 3,N2O,163.4541,No
+F053,Jsw Energy,2023 Q2,Scope 1,CO2,106.8,No
+F174,Tata Steel,2023 Q1,Scope 1,CO2,2626.92,No
+F139,Jsw Energy,2022 Q1,Scope 1,CO2,4932.73,No
+F123,L&T,2022 Q1,Scope 2,N2O,2097.4,No
+F003,Tata Steel,2022 Q2,Scope 3,CO2,3185.28,No
+F148,L&T,2023 Q1,Scope 1,CH4,3081.68,No
+F040,Jsw Energy,2022 Q2,Scope 2,CO2,1531.36,No
+F067,L&T,2023 Q1,Scope 1,CH4,1564.12,No
+F108,Tata Steel,2023 Q2,Scope 2,CH4,3016.94,No
+F012,Tata Steel,2023 Q1,Scope 3,CO2,3853.187,No
+F170,Reliance Industries,2023 Q2,Scope 2,CH4,459.36,No
+F180,Reliance Industries,2023 Q2,Scope 1,CO2,2792.22,No
+F100,Jsw Energy,2023 Q1,Scope 2,CO2,4129.93,No
+F130,Tata Steel,2023 Q1,Scope 2,CO2,2515.67,No
+F017,Reliance Industries,2022 Q2,Scope 3,CH4,1577.9521,No
+F031,Tata Steel,2022 Q2,Scope 3,N2O,4224.2,No
+F108,Tata Steel,2023 Q2,Scope 3,N2O,4932.4017,No
+F189,Jsw Energy,2022 Q2,Scope 2,CH4,1505.22,No
+F009,Jsw Energy,2023 Q2,Scope 3,CO2,2186.8441,No
+F010,Jsw Energy,2022 Q2,Scope 1,CH4,1236.6,No
+F102,L&T,2023 Q1,Scope 1,CH4,950.62,No
+F189,Jsw Energy,2023 Q1,Scope 3,CH4,1417.7323,No
+F096,Jsw Energy,2022 Q1,Scope 1,CH4,1840.6,No
+F022,Adani Green,2023 Q1,Scope 2,CO2,136.41,No
+F139,Jsw Energy,2023 Q2,Scope 1,N2O,2167.7,No
+F097,L&T,2022 Q2,Scope 2,N2O,3755.45,No
+F064,L&T,2022 Q2,Scope 2,CH4,1313.84,No
+F155,Reliance Industries,2022 Q2,Scope 3,CH4,460.0795,No
+F098,Adani Green,2022 Q2,Scope 3,N2O,2230.0799,No
+F158,Tata Steel,2022 Q1,Scope 1,N2O,324.83,No
+F119,Reliance Industries,2023 Q2,Scope 3,CH4,621.269,No
+F178,Tata Steel,2023 Q2,Scope 2,CH4,1054.75,No
+F082,Jsw Energy,2022 Q2,Scope 3,CO2,5086.729,No
+F080,Tata Steel,2023 Q2,Scope 2,N2O,733.07,No
+F184,Jsw Energy,2022 Q2,Scope 1,N2O,4608.12,No
+F134,Tata Steel,2023 Q2,Scope 2,CH4,3092.45,No
+F024,Adani Green,2023 Q1,Scope 1,CO2,824.2,No
+F026,Reliance Industries,2022 Q1,Scope 2,CH4,1816.62,No
+F155,Reliance Industries,2022 Q2,Scope 3,CO2,1750.3216,No
+F043,Jsw Energy,2022 Q2,Scope 3,CH4,4387.1743,No
+F179,L&T,2023 Q2,Scope 2,N2O,3959.46,No
+F120,Adani Green,2023 Q2,Scope 2,N2O,976.87,No
+F037,Tata Steel,2022 Q1,Scope 1,N2O,836.5,No
+F066,Adani Green,2023 Q1,Scope 1,CO2,4095.46,No
+F041,L&T,2023 Q2,Scope 2,CO2,3574.84,No
+F110,Adani Green,2023 Q1,Scope 2,N2O,4705.34,No
+F154,Jsw Energy,2022 Q2,Scope 1,N2O,4617.59,No
+F117,Reliance Industries,2022 Q1,Scope 1,CH4,3378.57,No
+F106,Tata Steel,2023 Q2,Scope 2,CH4,1071.83,No
+F140,Adani Green,2022 Q2,Scope 3,N2O,958.6544,No
+F017,Reliance Industries,2023 Q2,Scope 3,N2O,1194.6357,No
+F151,Reliance Industries,2023 Q1,Scope 3,N2O,1366.7457,No
+F056,Adani Green,2023 Q2,Scope 1,CO2,1936.56,No
+F065,L&T,2022 Q2,Scope 3,CH4,872.0232,No
+F026,Reliance Industries,2023 Q1,Scope 2,CO2,4730.69,No
+F036,Tata Steel,2022 Q2,Scope 3,CH4,3135.1171,No
+F076,Reliance Industries,2023 Q2,Scope 3,CO2,1288.6939,No
+F172,Adani Green,2022 Q1,Scope 1,CH4,3302.89,No
+F136,L&T,2022 Q2,Scope 2,CO2,1167.23,No
+F101,Tata Steel,2023 Q1,Scope 3,CH4,1716.9931,No
+F133,Reliance Industries,2022 Q2,Scope 2,N2O,2018.44,No
+F174,Tata Steel,2023 Q2,Scope 3,CH4,5025.5408,No
+F062,Reliance Industries,2023 Q1,Scope 3,CO2,2513.2965,No
+F109,Jsw Energy,2022 Q1,Scope 1,CO2,2145.48,No
+F025,Adani Green,2022 Q2,Scope 1,CH4,1701.79,No
+F127,Tata Steel,2023 Q1,Scope 2,CO2,1017.33,No
+F062,Reliance Industries,2022 Q1,Scope 2,CO2,4417.58,No
+F153,Tata Steel,2022 Q1,Scope 1,CH4,2948.39,No
+F029,Adani Green,2023 Q2,Scope 2,N2O,2543.38,No
+F038,Adani Green,2022 Q2,Scope 3,CO2,3031.49,No
+F128,Reliance Industries,2023 Q1,Scope 3,CO2,4209.3514,No
+F015,Adani Green,2022 Q1,Scope 1,N2O,3571.08,No
+F005,Adani Green,2022 Q1,Scope 2,CO2,887.49,No
+F147,L&T,2022 Q1,Scope 2,CH4,1618.49,No
+F192,Adani Green,2022 Q1,Scope 3,CH4,4625.4639,No
+F153,Tata Steel,2023 Q1,Scope 2,CH4,968.64,No
+F095,Reliance Industries,2023 Q2,Scope 3,CO2,2182.0644,No
+F054,Tata Steel,2023 Q2,Scope 3,N2O,2401.3391,No
+F045,Jsw Energy,2023 Q1,Scope 3,CH4,1887.9749,No
+F046,Adani Green,2023 Q1,Scope 1,CO2,1740.85,No
+F176,Adani Green,2022 Q1,Scope 3,N2O,4524.0169,No
+F175,Tata Steel,2023 Q1,Scope 3,CH4,4975.5384,No
+F168,Reliance Industries,2022 Q2,Scope 2,CH4,1573.0,No
+F141,L&T,2023 Q1,Scope 2,CH4,1578.72,No
+F196,Adani Green,2023 Q1,Scope 3,N2O,3818.4985,No
+F197,Reliance Industries,2023 Q2,Scope 2,N2O,2731.54,No
+F156,Reliance Industries,2022 Q1,Scope 1,N2O,156.84,No
+F063,Adani Green,2023 Q2,Scope 2,CH4,300.71,No
+F162,Tata Steel,2023 Q1,Scope 2,CH4,4929.36,No
+F184,Jsw Energy,2022 Q2,Scope 3,CH4,2623.4664,No
+F144,Reliance Industries,2023 Q2,Scope 3,CH4,3247.07,No
+F151,Reliance Industries,2023 Q2,Scope 2,N2O,1917.71,No
+F159,Jsw Energy,2022 Q2,Scope 2,N2O,3841.45,No
+F089,Adani Green,2023 Q1,Scope 2,CH4,4035.07,No
+F004,Jsw Energy,2023 Q1,Scope 1,CO2,3477.6,No
+F110,Adani Green,2022 Q1,Scope 1,N2O,1743.67,No
+F124,Tata Steel,2022 Q1,Scope 3,N2O,2351.4378,No
+F105,Jsw Energy,2022 Q1,Scope 1,CH4,4335.14,No
+F197,Reliance Industries,2022 Q1,Scope 2,CO2,4697.66,No
+F085,Adani Green,2023 Q2,Scope 2,CO2,3378.49,No
+F191,Jsw Energy,2023 Q1,Scope 1,CH4,4068.86,No
+F134,Tata Steel,2023 Q1,Scope 3,CH4,4658.5376,No
+F126,Reliance Industries,2022 Q1,Scope 3,CH4,3516.4541,No
+F044,L&T,2023 Q1,Scope 3,CO2,3133.8256,No
+F025,Adani Green,2022 Q2,Scope 2,CO2,1951.82,No
+F028,Adani Green,2023 Q1,Scope 3,CH4,2056.02,No
+F103,Adani Green,2023 Q2,Scope 1,CH4,377.76,No
+F043,Jsw Energy,2022 Q1,Scope 1,N2O,4676.8,No
+F123,L&T,2023 Q2,Scope 3,CO2,3984.4592,No
+F117,Reliance Industries,2022 Q2,Scope 3,CO2,1346.6819,No
+F007,Adani Green,2022 Q2,Scope 3,N2O,4869.82,No
+F043,Jsw Energy,2023 Q1,Scope 3,CO2,2329.0854,No
+F188,Tata Steel,2022 Q1,Scope 3,CO2,4828.6001,No
+F125,L&T,2022 Q1,Scope 2,CH4,3423.67,No
+F123,L&T,2023 Q1,Scope 1,CH4,2957.49,No
+F051,Adani Green,2022 Q2,Scope 1,CO2,3128.34,No
+F174,Tata Steel,2023 Q1,Scope 3,N2O,4548.0731,No
+F010,Jsw Energy,2023 Q2,Scope 1,CO2,3929.66,No
+F028,Adani Green,2022 Q2,Scope 3,CH4,3790.62,No
+F155,Reliance Industries,2022 Q2,Scope 2,N2O,4480.07,No
+F103,Adani Green,2023 Q2,Scope 2,CH4,4123.79,No
+F037,Tata Steel,2022 Q2,Scope 1,CH4,100.8,No
+F082,Jsw Energy,2023 Q2,Scope 2,CH4,4783.4,No
+F167,Reliance Industries,2023 Q2,Scope 3,CH4,2568.5215,No
+F008,Tata Steel,2022 Q2,Scope 2,CO2,246.64,No
+F019,Jsw Energy,2022 Q1,Scope 1,CO2,498.61,No
+F050,Jsw Energy,2022 Q1,Scope 1,CH4,3705.73,No
+F001,L&T,2023 Q2,Scope 2,N2O,470.38,No
+F132,Adani Green,2023 Q2,Scope 2,CH4,2355.87,No
+F138,Jsw Energy,2022 Q2,Scope 1,CH4,484.51,No
+F106,Tata Steel,2023 Q2,Scope 1,CO2,3299.33,No
+F064,L&T,2023 Q1,Scope 2,CH4,3312.29,No
+F071,Adani Green,2022 Q1,Scope 2,CO2,2017.59,No
+F027,Adani Green,2023 Q1,Scope 3,CH4,3564.2129,No
+F174,Tata Steel,2022 Q2,Scope 3,N2O,4913.5371,No
+F066,Adani Green,2023 Q1,Scope 3,CH4,1184.8584,No
+F088,Jsw Energy,2023 Q1,Scope 1,N2O,3845.16,No
+F173,L&T,2023 Q1,Scope 2,CH4,2288.28,No
+F182,Tata Steel,2023 Q1,Scope 2,CO2,751.28,No
+F116,Reliance Industries,2023 Q1,Scope 2,N2O,2159.65,No
+F099,Tata Steel,2023 Q1,Scope 2,CO2,3251.65,No
+F156,Reliance Industries,2023 Q2,Scope 3,N2O,4889.7534,No
+F052,Tata Steel,2023 Q2,Scope 2,CH4,608.37,No
+F173,L&T,2022 Q2,Scope 3,CH4,3246.987,No
+F017,Reliance Industries,2023 Q1,Scope 1,CH4,4214.38,No
+F065,L&T,2022 Q2,Scope 2,CH4,2178.11,No
+F026,Reliance Industries,2023 Q2,Scope 2,CH4,4250.24,No
+F132,Adani Green,2023 Q1,Scope 1,CH4,1294.92,No
+F156,Reliance Industries,2022 Q2,Scope 1,N2O,498.85,No
+F032,L&T,2023 Q2,Scope 2,CO2,4605.36,No
+F155,Reliance Industries,2023 Q2,Scope 1,N2O,4590.98,No
+F001,L&T,2022 Q2,Scope 2,CO2,2454.27,No
+F127,Tata Steel,2022 Q2,Scope 3,N2O,2083.0,No
+F035,Adani Green,2022 Q1,Scope 3,N2O,3207.76,No
+F055,Reliance Industries,2022 Q1,Scope 3,CH4,4200.425,No
+F097,L&T,2023 Q2,Scope 3,CH4,4705.2146,No
+F194,Tata Steel,2022 Q2,Scope 1,N2O,171.51,No
+F001,L&T,2023 Q1,Scope 3,N2O,2210.6309,No
+F021,L&T,2023 Q2,Scope 3,N2O,4978.9325,No
+F199,Jsw Energy,2022 Q1,Scope 2,CO2,3657.98,No
+F090,Reliance Industries,2023 Q2,Scope 2,N2O,1516.4,No
+F008,Tata Steel,2023 Q2,Scope 2,CH4,1707.15,No
+F073,Tata Steel,2023 Q1,Scope 1,N2O,526.19,No
+F119,Reliance Industries,2022 Q1,Scope 3,N2O,5253.4061,No
+F028,Adani Green,2022 Q1,Scope 3,CO2,3617.9,No
+F004,Jsw Energy,2022 Q2,Scope 2,CH4,698.65,No
+F021,L&T,2023 Q2,Scope 3,N2O,4671.9712,No
+F122,Adani Green,2023 Q2,Scope 1,CO2,4339.82,No
+F127,Tata Steel,2022 Q2,Scope 3,N2O,132.42,No
+F101,Tata Steel,2023 Q1,Scope 1,CH4,1388.99,No
+F177,Tata Steel,2023 Q2,Scope 1,CH4,3966.31,No
+F039,Reliance Industries,2022 Q2,Scope 2,CO2,2647.7,No
+F004,Jsw Energy,2022 Q2,Scope 2,N2O,3541.47,No
+F166,Tata Steel,2023 Q2,Scope 2,CH4,2083.98,No
+F031,Tata Steel,2023 Q2,Scope 3,CO2,3597.2223,No
+F075,Tata Steel,2022 Q1,Scope 2,N2O,3828.14,No
+F115,Tata Steel,2023 Q2,Scope 3,CH4,3705.6195,No
+F034,Adani Green,2022 Q1,Scope 3,CO2,2912.2503,No
+F175,Tata Steel,2023 Q1,Scope 2,N2O,1004.91,No
+F082,Jsw Energy,2023 Q1,Scope 1,CH4,4429.63,No
+F184,Jsw Energy,2022 Q2,Scope 3,CH4,4951.9238,No
+F107,Reliance Industries,2022 Q1,Scope 3,N2O,2036.0747,No
+F157,Jsw Energy,2022 Q1,Scope 2,CH4,4936.14,No
+F088,Jsw Energy,2023 Q1,Scope 2,CO2,2419.77,No
+F015,Adani Green,2023 Q1,Scope 3,CO2,574.9554,No
+F136,L&T,2022 Q2,Scope 2,CH4,2530.5,No
+F114,L&T,2023 Q1,Scope 2,CH4,4691.65,No
+F157,Jsw Energy,2023 Q2,Scope 2,CO2,3798.92,No
+F006,Adani Green,2022 Q1,Scope 1,N2O,473.15,No
+F162,Tata Steel,2023 Q1,Scope 2,CO2,2684.5,No
+F168,Reliance Industries,2023 Q1,Scope 3,CH4,3207.9662,No
+F004,Jsw Energy,2023 Q2,Scope 3,CO2,2986.0217,No
+F132,Adani Green,2022 Q1,Scope 2,CH4,862.55,No
+F021,L&T,2023 Q1,Scope 1,CO2,827.65,No
+F125,L&T,2022 Q1,Scope 2,CH4,1683.73,No
+F027,Adani Green,2022 Q2,Scope 1,N2O,1942.34,No
+F001,L&T,2023 Q1,Scope 1,CH4,4550.11,No
+F094,Tata Steel,2022 Q1,Scope 3,CO2,3667.9852,No
+F034,Adani Green,2023 Q2,Scope 1,N2O,4318.42,No
+F175,Tata Steel,2023 Q2,Scope 1,CH4,3660.75,No
+F195,L&T,2022 Q2,Scope 1,CO2,1074.46,No
+F152,Adani Green,2023 Q2,Scope 1,N2O,4228.88,No
+F124,Tata Steel,2023 Q1,Scope 1,N2O,2827.96,No
+F181,Tata Steel,2022 Q1,Scope 3,CH4,1375.519,No
+F197,Reliance Industries,2022 Q2,Scope 3,CO2,3501.5986,No
+F166,Tata Steel,2023 Q2,Scope 3,CO2,3492.9772,No
+F160,Adani Green,2022 Q2,Scope 3,N2O,1594.7763,No
+F100,Jsw Energy,2022 Q1,Scope 3,CO2,4328.8293,No
+F068,Jsw Energy,2023 Q1,Scope 3,CH4,3820.7629,No
+F049,Jsw Energy,2022 Q1,Scope 1,CH4,2495.33,No
+F051,Adani Green,2023 Q2,Scope 2,CH4,286.39,No
+F056,Adani Green,2023 Q1,Scope 1,CH4,1994.05,No
+F141,L&T,2022 Q2,Scope 1,CH4,2165.43,No
+F107,Reliance Industries,2023 Q2,Scope 2,CO2,4197.01,No
+F191,Jsw Energy,2023 Q1,Scope 3,CH4,1921.28,No
+F161,Reliance Industries,2022 Q2,Scope 2,N2O,3491.72,No
+F044,L&T,2023 Q1,Scope 3,CH4,2500.0665,No
+F189,Jsw Energy,2022 Q2,Scope 2,CH4,818.77,No
+F035,Adani Green,2022 Q1,Scope 2,CO2,316.76,No
+F067,L&T,2022 Q2,Scope 2,CO2,2524.56,No
+F146,Reliance Industries,2023 Q1,Scope 3,CO2,1374.2161,No
+F157,Jsw Energy,2022 Q2,Scope 2,CH4,3494.63,No
+F015,Adani Green,2022 Q2,Scope 3,N2O,1436.9354,No
+F188,Tata Steel,2022 Q2,Scope 2,CH4,1993.57,No
+F027,Adani Green,2022 Q1,Scope 1,CO2,2563.01,No
+F145,Adani Green,2022 Q2,Scope 2,CH4,3772.31,No
+F051,Adani Green,2022 Q1,Scope 2,CO2,1624.65,No
+F138,Jsw Energy,2022 Q2,Scope 2,CH4,4535.02,No
+F004,Jsw Energy,2022 Q2,Scope 3,N2O,3532.2749,No
+F096,Jsw Energy,2022 Q2,Scope 1,CO2,2581.03,No
+F020,Reliance Industries,2023 Q1,Scope 3,CO2,4518.3756,No
+F055,Reliance Industries,2022 Q2,Scope 2,N2O,4506.08,No
+F113,Tata Steel,2022 Q1,Scope 3,CO2,3055.5136,No
+F063,Adani Green,2022 Q1,Scope 1,CO2,1376.96,No
+F054,Tata Steel,2022 Q1,Scope 3,CO2,3798.9463,No
+F033,Jsw Energy,2022 Q1,Scope 2,CO2,1881.41,No
+F145,Adani Green,2023 Q1,Scope 1,N2O,1308.54,No
+F056,Adani Green,2022 Q2,Scope 2,CO2,706.73,No
+F051,Adani Green,2023 Q2,Scope 3,N2O,3595.4041,No
+F167,Reliance Industries,2023 Q2,Scope 1,CH4,1990.59,No
+F112,Adani Green,2022 Q1,Scope 3,N2O,4212.5026,No
+F030,Jsw Energy,2022 Q1,Scope 3,CO2,2388.2432,No
+F181,Tata Steel,2023 Q1,Scope 3,N2O,318.9199,No
+F107,Reliance Industries,2022 Q2,Scope 1,CH4,365.96,No
+F105,Jsw Energy,2023 Q1,Scope 2,CH4,1353.72,No
+F141,L&T,2023 Q1,Scope 1,N2O,3026.73,No
+F138,Jsw Energy,2022 Q2,Scope 1,CH4,4344.96,No
+F027,Adani Green,2022 Q1,Scope 3,CH4,2412.9018,No
+F064,L&T,2022 Q2,Scope 2,N2O,4239.84,No
+F157,Jsw Energy,2022 Q2,Scope 3,CO2,3759.0108,No
+F062,Reliance Industries,2023 Q2,Scope 1,CH4,3558.82,No
+F083,Reliance Industries,2022 Q2,Scope 2,CO2,2610.12,No
+F011,Adani Green,2023 Q1,Scope 2,CH4,2651.33,No
+F071,Adani Green,2023 Q2,Scope 2,N2O,1018.53,No
+F064,L&T,2023 Q2,Scope 3,CO2,503.93,No
+F120,Adani Green,2022 Q2,Scope 3,CH4,3013.4458,No
+F044,L&T,2022 Q2,Scope 2,CH4,1639.95,No
+F053,Jsw Energy,2023 Q2,Scope 1,N2O,4092.48,No
+F035,Adani Green,2022 Q2,Scope 1,CO2,730.62,No
+F143,L&T,2022 Q1,Scope 3,N2O,5247.8932,No
+F129,L&T,2023 Q1,Scope 1,N2O,2947.53,No
+F072,Reliance Industries,2022 Q1,Scope 2,N2O,571.93,No
+F031,Tata Steel,2022 Q1,Scope 3,CO2,4065.7377,No
+F139,Jsw Energy,2022 Q1,Scope 3,CH4,1983.3038,No
+F047,Jsw Energy,2023 Q1,Scope 1,N2O,3226.08,No
+F027,Adani Green,2022 Q1,Scope 3,CO2,885.4422,No
+F029,Adani Green,2022 Q2,Scope 1,CO2,3998.24,No
+F113,Tata Steel,2023 Q2,Scope 1,CO2,2639.81,No
+F187,Reliance Industries,2023 Q1,Scope 1,CH4,2835.04,No
+F158,Tata Steel,2023 Q2,Scope 1,CH4,2182.7,No
+F173,L&T,2022 Q2,Scope 2,CH4,3507.39,No
+F040,Jsw Energy,2022 Q2,Scope 1,N2O,4743.79,No
+F020,Reliance Industries,2022 Q2,Scope 2,CH4,2798.51,No
+F138,Jsw Energy,2022 Q1,Scope 1,CO2,2111.51,No
+F018,Adani Green,2022 Q1,Scope 2,CO2,440.45,No
+F084,Tata Steel,2022 Q2,Scope 1,CO2,2532.06,No
+F116,Reliance Industries,2022 Q2,Scope 3,CO2,3682.33,No
+F003,Tata Steel,2023 Q2,Scope 2,CO2,1546.78,No
+F053,Jsw Energy,2023 Q2,Scope 2,CO2,2135.97,No
+F011,Adani Green,2022 Q2,Scope 2,CH4,1344.0,No
+F083,Reliance Industries,2023 Q2,Scope 2,CH4,1009.35,No
+F120,Adani Green,2022 Q1,Scope 2,N2O,1620.64,No
+F063,Adani Green,2023 Q1,Scope 1,CH4,3874.19,No
+F176,Adani Green,2022 Q1,Scope 2,CO2,3045.93,No
+F074,L&T,2022 Q1,Scope 2,N2O,1476.28,No
+F199,Jsw Energy,2023 Q2,Scope 3,CO2,3862.2532,No
+F116,Reliance Industries,2022 Q2,Scope 1,N2O,2517.98,No
+F069,Adani Green,2023 Q2,Scope 1,CH4,3737.89,No
+F009,Jsw Energy,2022 Q2,Scope 1,CH4,1111.82,No
+F054,Tata Steel,2023 Q2,Scope 1,N2O,4547.98,No
+F180,Reliance Industries,2022 Q2,Scope 3,N2O,5035.8732,No
+F061,L&T,2022 Q1,Scope 1,CO2,666.62,No
+F144,Reliance Industries,2022 Q1,Scope 2,N2O,4848.67,No
+F098,Adani Green,2022 Q2,Scope 2,N2O,965.26,No
+F031,Tata Steel,2023 Q1,Scope 3,N2O,3352.8806,No
+F163,L&T,2023 Q2,Scope 3,N2O,3960.6896,No
+F035,Adani Green,2022 Q1,Scope 2,N2O,4162.58,No
+F183,Tata Steel,2022 Q2,Scope 2,N2O,3555.25,No
+F173,L&T,2023 Q1,Scope 3,N2O,4585.8885,No
+F128,Reliance Industries,2022 Q1,Scope 3,N2O,875.5254,No
+F123,L&T,2022 Q1,Scope 3,N2O,3686.6817,No
+F122,Adani Green,2022 Q1,Scope 1,N2O,2899.46,No
+F025,Adani Green,2023 Q2,Scope 2,CO2,429.01,No
+F128,Reliance Industries,2022 Q2,Scope 3,CH4,1770.1853,No
+F019,Jsw Energy,2023 Q2,Scope 2,CO2,2143.03,No
+F166,Tata Steel,2022 Q1,Scope 1,CO2,81.83,No
+F116,Reliance Industries,2023 Q2,Scope 3,N2O,2577.6,No
+F074,L&T,2022 Q1,Scope 3,CO2,5027.8617,No
+F148,L&T,2023 Q2,Scope 2,CO2,3269.61,No
+F123,L&T,2022 Q2,Scope 3,CH4,3769.6594,No
+F011,Adani Green,2023 Q2,Scope 1,CH4,3970.3,No
+F167,Reliance Industries,2023 Q2,Scope 1,CH4,2665.16,No
+F200,L&T,2023 Q2,Scope 1,N2O,374.88,No
+F165,Adani Green,2022 Q2,Scope 3,CH4,1106.0769,No
+F146,Reliance Industries,2022 Q1,Scope 3,CO2,2876.4781,No
+F190,Jsw Energy,2023 Q1,Scope 1,N2O,4394.36,No
+F136,L&T,2023 Q1,Scope 2,CH4,3682.56,No
+F138,Jsw Energy,2023 Q2,Scope 1,N2O,2576.87,No
+F188,Tata Steel,2023 Q2,Scope 1,CO2,4625.6,No
+F157,Jsw Energy,2023 Q2,Scope 1,N2O,3554.21,No
+F040,Jsw Energy,2023 Q1,Scope 1,N2O,2525.88,No
+F197,Reliance Industries,2022 Q1,Scope 3,CO2,2134.7956,No
+F126,Reliance Industries,2023 Q1,Scope 2,CH4,798.55,No
+F146,Reliance Industries,2022 Q1,Scope 2,N2O,4426.58,No
+F196,Adani Green,2023 Q1,Scope 1,CO2,2921.55,No
+F111,Tata Steel,2023 Q1,Scope 1,N2O,1534.55,No
+F021,L&T,2022 Q2,Scope 3,CO2,3062.346,No
+F035,Adani Green,2022 Q1,Scope 3,CO2,1828.37,No
+F098,Adani Green,2022 Q1,Scope 3,CO2,2945.0438,No
+F025,Adani Green,2023 Q1,Scope 2,CH4,2905.61,No
+F187,Reliance Industries,2023 Q2,Scope 2,N2O,3354.34,No
+F055,Reliance Industries,2023 Q2,Scope 1,CH4,4622.86,No
+F078,Jsw Energy,2022 Q2,Scope 3,N2O,4374.0,No
+F027,Adani Green,2023 Q1,Scope 2,CH4,1375.43,No
+F072,Reliance Industries,2022 Q1,Scope 3,N2O,4136.8181,No
+F082,Jsw Energy,2022 Q2,Scope 3,CH4,2988.4606,No
+F015,Adani Green,2023 Q2,Scope 3,CO2,724.7384,No
+F135,Tata Steel,2022 Q1,Scope 2,CO2,4727.37,No
+F067,L&T,2022 Q2,Scope 2,N2O,78.44,No
+F141,L&T,2022 Q1,Scope 1,N2O,4289.21,No
+F163,L&T,2023 Q1,Scope 1,CO2,1666.98,No
+F194,Tata Steel,2022 Q2,Scope 1,CO2,1277.34,No
+F145,Adani Green,2022 Q2,Scope 2,N2O,371.36,No
+F083,Reliance Industries,2022 Q2,Scope 3,CO2,4247.1697,No
+F053,Jsw Energy,2022 Q2,Scope 1,CO2,3150.39,No
+F014,Reliance Industries,2022 Q2,Scope 3,CO2,3071.4405,No
+F026,Reliance Industries,2022 Q2,Scope 1,CO2,341.64,No
+F045,Jsw Energy,2022 Q2,Scope 2,N2O,4075.39,No
+F155,Reliance Industries,2022 Q1,Scope 2,N2O,4062.72,No
+F077,Adani Green,2022 Q2,Scope 2,CO2,3930.54,No
+F129,L&T,2023 Q2,Scope 1,CH4,1919.26,No
+F049,Jsw Energy,2022 Q2,Scope 1,CH4,3554.23,No
+F102,L&T,2022 Q2,Scope 3,N2O,493.58,No
+F193,L&T,2023 Q2,Scope 3,CH4,2362.1603,No
+F058,L&T,2022 Q2,Scope 1,CO2,984.26,No
+F177,Tata Steel,2023 Q2,Scope 2,N2O,2223.05,No
+F042,L&T,2023 Q1,Scope 3,N2O,2498.8473,No
+F158,Tata Steel,2022 Q1,Scope 3,CH4,857.6646,No
+F100,Jsw Energy,2022 Q1,Scope 1,CO2,2079.4,No
+F057,L&T,2022 Q2,Scope 2,CO2,2644.71,No
+F064,L&T,2022 Q1,Scope 1,CO2,813.42,No
+F186,Adani Green,2023 Q2,Scope 3,CO2,1500.7413,No
+F199,Jsw Energy,2023 Q1,Scope 1,N2O,2099.78,No
+F053,Jsw Energy,2022 Q2,Scope 3,CH4,3573.1842,No
+F070,Reliance Industries,2023 Q2,Scope 3,CO2,3666.9764,No
+F166,Tata Steel,2022 Q2,Scope 2,CO2,4772.12,No
+F073,Tata Steel,2023 Q2,Scope 3,N2O,4691.37,No
+F038,Adani Green,2023 Q2,Scope 1,CO2,2731.04,No
+F060,Adani Green,2022 Q1,Scope 1,N2O,3020.79,No
+F131,Adani Green,2023 Q1,Scope 2,N2O,1086.79,No
+F125,L&T,2023 Q2,Scope 3,N2O,5115.1311,No
+F128,Reliance Industries,2023 Q2,Scope 1,CH4,2958.7,No
+F071,Adani Green,2023 Q2,Scope 3,CH4,1571.9694,No
+F009,Jsw Energy,2022 Q2,Scope 2,CO2,2745.85,No
+F151,Reliance Industries,2023 Q2,Scope 2,N2O,1531.0,No
+F146,Reliance Industries,2022 Q1,Scope 3,CH4,4709.8048,No
+F170,Reliance Industries,2023 Q1,Scope 2,N2O,830.08,No
+F058,L&T,2022 Q1,Scope 2,CO2,4453.9,No
+F181,Tata Steel,2022 Q2,Scope 2,N2O,4791.93,No
+F062,Reliance Industries,2022 Q2,Scope 3,CH4,2280.1096,No
+F108,Tata Steel,2023 Q1,Scope 3,N2O,4839.8085,No
+F196,Adani Green,2022 Q2,Scope 1,N2O,506.81,No
+F194,Tata Steel,2022 Q2,Scope 3,CO2,3907.2413,No
+F180,Reliance Industries,2022 Q2,Scope 3,CO2,2483.8206,No
+F116,Reliance Industries,2023 Q2,Scope 2,CH4,139.57,No
+F066,Adani Green,2022 Q2,Scope 3,CO2,2912.6627,No
+F061,L&T,2023 Q1,Scope 1,CO2,479.83,No
+F145,Adani Green,2023 Q1,Scope 3,CO2,5275.2423,No
+F128,Reliance Industries,2022 Q1,Scope 1,CO2,3515.66,No
+F064,L&T,2023 Q1,Scope 3,CO2,771.45,No
+F185,Jsw Energy,2023 Q1,Scope 2,CO2,705.84,No
+F007,Adani Green,2023 Q2,Scope 3,CH4,3398.71,No
+F018,Adani Green,2023 Q1,Scope 2,N2O,2433.04,No
